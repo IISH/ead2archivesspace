@@ -40,9 +40,9 @@
                 <xsl:otherwise>
                     <xsl:apply-templates select="@*|node()" mode="did"/>
                     <ead:unittitle>
-                        <xsl:copy-of select="ead:unittitle[1]/ead:persname"/>
+                        <xsl:copy-of select="ead:unittitle[1]/ead:persname|ead:unittitle[1]/ead:corpname"/>
                         -
-                        <xsl:copy-of select="ead:unittitle[last()]/ead:persname"/>
+                        <xsl:copy-of select="ead:unittitle[last()]/ead:persname|ead:unittitle[1]/ead:corpname"/>
                     </ead:unittitle>
                 </xsl:otherwise>
             </xsl:choose>
@@ -54,21 +54,29 @@
                         <xsl:choose>
                             <xsl:when test="local-name() = 'unittitle'">
                                 <ead:item>
-                                    <xsl:copy-of select="ead:persname"/>
-                                    <xsl:if test="ead:unitdate">.
-                                        <xsl:value-of select="ead:unitdate"/>
-                                    </xsl:if>
-                                    <xsl:value-of select="text()"/>
+                                    <xsl:copy-of select="ead:persname|ead:corpname"/>
+<!--                                    <xsl:if test="ead:unitdate">-->
+<!--                                        <xsl:value-of select="ead:unitdate"/>-->
+<!--                                    </xsl:if>-->
+<!--                                    <xsl:value-of select="text()"/>-->
+                                    <xsl:call-template name="interpret_text">
+                                        <xsl:with-param name="t" select="*[not(name() = 'persname' or name() = 'corpname')]"/>
+                                    </xsl:call-template>
                                 </ead:item>
                             </xsl:when>
                             <xsl:when test="local-name() = 'physdesc'">
                                 <ead:item>
-                                    <xsl:value-of select="ead:extent"/>
+<!--                                    <xsl:value-of select="ead:extent"/>-->
+                                    <xsl:call-template name="interpret_text">
+                                        <xsl:with-param name="t" select="."/>
+                                    </xsl:call-template>
                                 </ead:item>
                             </xsl:when>
                             <xsl:when test="local-name() = 'note'">
                                 <ead:item>
-                                    <xsl:value-of select="text()"/>
+                                    <xsl:call-template name="interpret_text">
+                                        <xsl:with-param name="t" select="."/>
+                                    </xsl:call-template>
                                 </ead:item>
                             </xsl:when>
                             <xsl:otherwise/>
@@ -77,6 +85,15 @@
                 </ead:list>
             </ead:scopecontent>
         </xsl:if>
+    </xsl:template>
+
+    <xsl:template name="interpret_text">
+        <xsl:param name="t"/>
+        <xsl:for-each select="$t//text()">
+            <xsl:if test="string-length(normalize-space(.))>0">
+                <xsl:value-of select="normalize-space(.)"/>
+            </xsl:if>
+        </xsl:for-each>
     </xsl:template>
 
 </xsl:stylesheet>
