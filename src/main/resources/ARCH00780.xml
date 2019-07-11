@@ -1387,6 +1387,7 @@
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
                                 <unittitle>Notizbücher.</unittitle>
+                                <unitdate>1951-1953.</unitdate>
                             </did>
                         </c04>
                         <c04 level="item">
@@ -1613,7 +1614,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.12?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle><persname>Bab, Julius</persname>. <unitdate>1903, 1912, 1918.</unitdate>
+                                    <unittitle><persname>Bab, Julius</persname>.
+                                        <unitdate>1903, 1912, 1918.</unitdate>
                                     </unittitle>
                                     <physdesc>
                                         <extent>3 Briefe</extent>
@@ -1703,8 +1705,9 @@
                                     </physdesc>
                                     <unittitle><persname>Dehmel, Paula</persname>. <unitdate>Undatiert</unitdate>. 1 Br.
                                     </unittitle>
-                                    <unittitle><persname>Dehmel, Richard</persname>.<unitdate>1899 und undatiert.
-                                    </unitdate>
+                                    <unittitle><persname>Dehmel, Richard</persname>.
+                                        <unitdate>1899 und undatiert.
+                                        </unitdate>
                                     </unittitle>
                                     <physdesc>
                                         <extent>2 Briefe</extent>
@@ -1748,7 +1751,8 @@
                                         (Pseudonym von <persname>Hugo Höppener</persname>). <unitdate>1899.</unitdate> 2
                                         Br.
                                     </unittitle>
-                                    <unittitle><persname>Friedeberg</persname>, [R.?] <unitdate>1906.</unitdate>
+                                    <unittitle><persname>Friedeberg</persname>, [R.?]
+                                        <unitdate>1906.</unitdate>
                                     </unittitle>
                                     <physdesc>
                                         <extent>1 Brief</extent>
@@ -1802,7 +1806,8 @@
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
                                     <unittitle><persname>Hardegger, Margarethe</persname>(Harda, Mark). Photographie mit
-                                        Unterschrift. <unitdate>1907-1908.</unitdate>
+                                        Unterschrift.
+                                        <unitdate>1907-1908.</unitdate>
                                     </unittitle>
                                     <unittitle>
                                         <persname>Harden, Maximilian.</persname>
@@ -1860,7 +1865,8 @@
                                     <note>
                                         <p>Beilage: eine Seite des Textes eines Schauspiels.</p>
                                     </note>
-                                    <unittitle><persname>Kropotkin, Peter</persname>. <unitdate>1903-1904.</unitdate>
+                                    <unittitle><persname>Kropotkin, Peter</persname>.
+                                        <unitdate>1903-1904.</unitdate>
                                     </unittitle>
                                     <physdesc>
                                         <extent>3 Briefe</extent>
@@ -1947,12 +1953,14 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.19?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle><persname>Mayer, Gustav</persname>. <unitdate>1912, 1916-1918.</unitdate>
+                                    <unittitle><persname>Mayer, Gustav</persname>.
+                                        <unitdate>1912, 1916-1918.</unitdate>
                                     </unittitle>
                                     <physdesc>
                                         <extent>4 Briefe</extent>
                                     </physdesc>
-                                    <unittitle><persname>Meyerfeld</persname>. <unitdate>1906.</unitdate>
+                                    <unittitle><persname>Meyerfeld</persname>.
+                                        <unitdate>1906.</unitdate>
                                     </unittitle>
                                     <physdesc>
                                         <extent>1 Brief</extent>
@@ -2060,8 +2068,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.21?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>Korrespondent Verlag der Zukunft-Zimmer, Fr. <unitdate>1890-1915
-                                    </unitdate>
+                                    <unittitle>Korrespondent Verlag der Zukunft-Zimmer, Fr.
+                                        <unitdate>1890-1915
+                                        </unitdate>
                                     </unittitle>
                                 </did>
                                 <scopecontent>
@@ -2182,7 +2191,8 @@
                                     </note>
                                     <unittitle>
                                         <persname>Däubler, Theodor.</persname>
-                                        <unitdate>1914.</unitdate> 1 Br.
+                                        <unitdate>1914.</unitdate>
+                                        1 Br.
                                     </unittitle>
                                     <unittitle><persname>Eeden, Frederik van</persname>. <unitdate>1914 und undatiert.
                                     </unitdate> 2 Br.
@@ -4744,7 +4754,8 @@
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
                                 <unittitle><persname>Lange, Rudolf</persname>. <unitdate>1913.</unitdate> 3
-                                    Originalbriefe und Abschriften. Mit einem Brief von Rudolf Lange an Gustav Landauer. <unitdate>
+                                    Originalbriefe und Abschriften. Mit einem Brief von Rudolf Lange an Gustav Landauer.
+                                    <unitdate>
                                         1910.
                                     </unitdate>
                                 </unittitle>
@@ -4763,7 +4774,8 @@
                                     Landauer-Lachmann. <unitdate>1892, 1894-1896, 1898-1919 und undatiert.</unitdate> Abschriften.
                                     Beilagen: ein Brief von Leo Winze an Fritz Mauthner. 1906. Ein Brief von Fritz
                                     Mauthner an Leo Winze. 1906. Abschrift eines Briefes von Ludwig Berndl an Gustav
-                                    Landauer. <unitdate>1911.</unitdate>
+                                    Landauer.
+                                    <unitdate>1911.</unitdate>
                                 </unittitle>
                             </did>
                             <c05 level="item">
@@ -5200,7 +5212,8 @@
                             </daogrp>
                             <unittitle>Listen von Briefen und Abschriften von Briefen Gustav Landauers, Notizen und
                                 Korrespondenz zur Herausgabe der Briefe Gustav Landauers. Enthält auch einige Porträts
-                                von Gustav Landauer. <unitdate>1921, 1924-1926 und undatiert.</unitdate>
+                                von Gustav Landauer.
+                                <unitdate>1921, 1924-1926 und undatiert.</unitdate>
                             </unittitle>
                         </did>
                     </c03>
