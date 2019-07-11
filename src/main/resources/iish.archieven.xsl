@@ -55,18 +55,14 @@
                             <xsl:when test="local-name() = 'unittitle'">
                                 <ead:item>
                                     <xsl:copy-of select="ead:persname|ead:corpname"/>
-<!--                                    <xsl:if test="ead:unitdate">-->
-<!--                                        <xsl:value-of select="ead:unitdate"/>-->
-<!--                                    </xsl:if>-->
-<!--                                    <xsl:value-of select="text()"/>-->
                                     <xsl:call-template name="interpret_text">
-                                        <xsl:with-param name="t" select="*[not(name() = 'persname' or name() = 'corpname')]"/>
+                                        <xsl:with-param name="t"
+                                                        select="*[not(name() = 'persname' or name() = 'corpname')]"/>
                                     </xsl:call-template>
                                 </ead:item>
                             </xsl:when>
                             <xsl:when test="local-name() = 'physdesc'">
                                 <ead:item>
-<!--                                    <xsl:value-of select="ead:extent"/>-->
                                     <xsl:call-template name="interpret_text">
                                         <xsl:with-param name="t" select="."/>
                                     </xsl:call-template>
