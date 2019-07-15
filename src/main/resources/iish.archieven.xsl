@@ -57,7 +57,7 @@
                     <ead:unittitle>
                         <xsl:copy-of select="ead:unittitle[1]/ead:persname|ead:unittitle[1]/ead:corpname"/>
                         -
-                        <xsl:copy-of select="ead:unittitle[last()]/ead:persname|ead:unittitle[1]/ead:corpname"/>
+                        <xsl:copy-of select="ead:unittitle[last()]/ead:persname|ead:unittitle[last()]/ead:corpname"/>
                     </ead:unittitle>
                 </xsl:otherwise>
             </xsl:choose>
@@ -72,7 +72,7 @@
                                     <xsl:copy-of select="ead:persname|ead:corpname|ead:title"/>
                                     <xsl:call-template name="interpret_text">
                                         <xsl:with-param name="t"
-                                                        select="*[not(name() = 'persname' or name() = 'corpname')]"/>
+                                                        select="."/>
                                     </xsl:call-template>
                                 </ead:item>
                             </xsl:when>
