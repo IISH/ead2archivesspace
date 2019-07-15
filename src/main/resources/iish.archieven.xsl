@@ -17,18 +17,34 @@
     </xsl:template>
 
     <!-- Vervangt element door teken: <lb/> wordt vervangen door ‡ -->
-    <xsl:template match="ead:lb"><xsl:text>‡</xsl:text></xsl:template>
+<!--    <xsl:template match="ead:lb"><xsl:text>‡</xsl:text></xsl:template>-->
 
     <!-- Vervangt element door ander element: <extent> binnen c0x:did:physdesc wordt vervangen door <genreform> -->
-    <xsl:template match="ead:physdesc/ead:extent">
-        <ead:genreform>
-            <xsl:apply-templates select="@*|node()"/>
-        </ead:genreform>
-    </xsl:template>
+<!--    <xsl:template match="ead:physdesc/ead:extent">-->
+<!--        <ead:genreform>-->
+<!--            <xsl:apply-templates select="@*|node()"/>-->
+<!--        </ead:genreform>-->
+<!--    </xsl:template>-->
 
     <!-- Verwijderd element binnen element(en): <unitdate> binnen c0x:did:unittile wordt verwijderd -->
     <xsl:template match="ead:unittitle/ead:unitdate">
         <xsl:value-of select="text()"/>
+    </xsl:template>
+
+    <xsl:template match="@*|node()" mode="unittitle">
+        <xsl:choose>
+            <xsl:when test="local-name() = 'persname' or local-name() = 'corpname' or local-name() = 'title'">
+                <xsl:copy>
+                    <xsl:apply-templates select="@*|node()" mode="unittitle"/>
+                </xsl:copy>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:call-template name="interpret_text">
+                    <xsl:with-param name="t"
+                                    select="."/>
+                </xsl:call-template>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 
     <xsl:template match="@*|node()" mode="did">
@@ -69,11 +85,7 @@
                         <xsl:choose>
                             <xsl:when test="local-name() = 'unittitle'">
                                 <ead:item>
-                                    <xsl:copy-of select="ead:persname|ead:corpname|ead:title"/>
-                                    <xsl:call-template name="interpret_text">
-                                        <xsl:with-param name="t"
-                                                        select="."/>
-                                    </xsl:call-template>
+                                        <xsl:apply-templates select="." mode="unittitle"/>
                                 </ead:item>
                             </xsl:when>
                             <xsl:when test="local-name() = 'physdesc'">
