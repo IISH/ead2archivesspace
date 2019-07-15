@@ -17,14 +17,14 @@
     </xsl:template>
 
     <!-- Vervangt element door teken: <lb/> wordt vervangen door ‡ -->
-<!--    <xsl:template match="ead:lb"><xsl:text>‡</xsl:text></xsl:template>-->
+    <!--    <xsl:template match="ead:lb"><xsl:text>‡</xsl:text></xsl:template>-->
 
     <!-- Vervangt element door ander element: <extent> binnen c0x:did:physdesc wordt vervangen door <genreform> -->
-<!--    <xsl:template match="ead:physdesc/ead:extent">-->
-<!--        <ead:genreform>-->
-<!--            <xsl:apply-templates select="@*|node()"/>-->
-<!--        </ead:genreform>-->
-<!--    </xsl:template>-->
+    <!--    <xsl:template match="ead:physdesc/ead:extent">-->
+    <!--        <ead:genreform>-->
+    <!--            <xsl:apply-templates select="@*|node()"/>-->
+    <!--        </ead:genreform>-->
+    <!--    </xsl:template>-->
 
     <!-- Verwijderd element binnen element(en): <unitdate> binnen c0x:did:unittile wordt verwijderd -->
     <xsl:template match="ead:unittitle/ead:unitdate">
@@ -34,9 +34,7 @@
     <xsl:template match="@*|node()" mode="unittitle">
         <xsl:choose>
             <xsl:when test="local-name() = 'persname' or local-name() = 'corpname' or local-name() = 'title'">
-                <xsl:copy>
-                    <xsl:apply-templates select="@*|node()" mode="unittitle"/>
-                </xsl:copy>
+                <xsl:copy-of select="."/>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:call-template name="interpret_text">
@@ -85,7 +83,7 @@
                         <xsl:choose>
                             <xsl:when test="local-name() = 'unittitle'">
                                 <ead:item>
-                                        <xsl:apply-templates select="." mode="unittitle"/>
+                                    <xsl:apply-templates select="@*|node()" mode="unittitle"/>
                                 </ead:item>
                             </xsl:when>
                             <xsl:when test="local-name() = 'physdesc'">
@@ -114,7 +112,7 @@
         <xsl:param name="t"/>
         <xsl:for-each select="$t//text()">
             <xsl:if test="string-length(normalize-space(.))>0">
-                <xsl:value-of select="normalize-space(.)"/>
+                <xsl:value-of select="concat(normalize-space(.), ' ')"/>
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
