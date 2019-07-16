@@ -7,7 +7,7 @@
         xmlns:xlink="http://www.w3.org/1999/xlink"
         exclude-result-prefixes="ead xlink">
 
-    <xsl:output method="xml" indent="no" omit-xml-declaration="yes"/>
+    <xsl:output method="xml" indent="no" omit-xml-declaration="no"/>
     <xsl:strip-space elements="*"/>
 
     <xsl:template match="@*|node()">
