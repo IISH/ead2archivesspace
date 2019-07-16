@@ -110,7 +110,7 @@
 
     <xsl:template name="interpret_text">
         <xsl:param name="t"/>
-        <xsl:for-each select="$t//text()">
+        <xsl:for-each select="$t">
             <xsl:if test="string-length(normalize-space(.))>0">
                 <xsl:value-of select="concat(normalize-space(.), ' ')"/>
             </xsl:if>

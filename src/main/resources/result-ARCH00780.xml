@@ -1612,56 +1612,56 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.12?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Bab, Julius</persname>
                                         -
                                         <persname>Cornelius, Hans</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Bab, Julius</persname>1903, 1912, 1918.
-                                        </item>
-                                        <item>3 Briefe</item>
-                                        <item><persname>Bendemann-Susman, Margarete von</persname>1910 und undatiert
-                                        </item>
-                                        <item><persname>Berndl, Ludwig</persname>1910, 1911
-                                        </item>
-                                        <item>2 Briefe</item>
-                                        <item><persname>Beutler, Margarete</persname>1910
-                                        </item>
-                                        <item><persname>Bielefeld</persname>1906.
-                                        </item>
-                                        <item><persname>Bittel, Karl</persname>1916.
-                                        </item>
-                                        <item><persname>Blüher, Hans</persname>1915, 1916, 1918 und undatiert
-                                        </item>
-                                        <item>4 Briefe</item>
-                                        <item><persname>Blum-Neff, Emil</persname>Undatiert.
-                                        </item>
-                                        <item><persname>Blummer, Rudolf</persname>1918.
-                                        </item>
-                                        <item><persname>Bodman, Emanuel von</persname>1907 und undatiert.
-                                        </item>
-                                        <item>2 Briefe</item>
-                                        <item>NB. Ausserdem ein Brief, mitunterzeichnet von Fritz Mauthner , Hedwig
-                                            Mauthner , R. Einhart Gottlieben , Reichle , Alwin Kronacher und
-                                            [Steinberg?]. Undatiert.
-                                        </item>
-                                        <item><persname>Bölsche, Wilhelm</persname>1899, 1901.
-                                        </item>
-                                        <item><persname>Buber, Familie</persname>1906
-                                        </item>
-                                        <item><persname>Buber, Martin</persname>1911, 1918.
-                                        </item>
-                                        <item>Beilage: Abschrift eines Briefes von Gustav Landauer an Martin Buber .
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Bab, Julius</persname>. 1903, 1912, 1918.
+                                        </ead:item>
+                                        <ead:item>3 Briefe</ead:item>
+                                        <ead:item><persname>Bendemann-Susman, Margarete von</persname>. 1910 und
+                                            undatiert . 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Berndl, Ludwig</persname>. 1910, 1911 .
+                                        </ead:item>
+                                        <ead:item>2 Briefe</ead:item>
+                                        <ead:item><persname>Beutler, Margarete</persname>. 1910 . 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Bielefeld</persname>. 1906. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Bittel, Karl</persname>. 1916. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Blüher, Hans</persname>. 1915, 1916, 1918 und undatiert .
+                                        </ead:item>
+                                        <ead:item>4 Briefe</ead:item>
+                                        <ead:item><persname>Blum-Neff, Emil</persname>. Undatiert. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Blummer, Rudolf</persname>. 1918. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Bodman, Emanuel von</persname>. 1907 und undatiert.
+                                        </ead:item>
+                                        <ead:item>2 Briefe</ead:item>
+                                        <ead:item>NB. Ausserdem ein Brief, mitunterzeichnet von Fritz Mauthner, Hedwig
+                                            Mauthner, R. Einhart Gottlieben, Reichle, Alwin Kronacherund [Steinberg?].
+                                            Undatiert.
+                                        </ead:item>
+                                        <ead:item><persname>Bölsche, Wilhelm</persname>. 1899, 1901. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Buber, Familie</persname>. 1906 . 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Buber, Martin</persname>. 1911, 1918. 2 Br. und 1 Telegramm.
+                                        </ead:item>
+                                        <ead:item>Beilage: Abschrift eines Briefes von Gustav Landauer an Martin Buber.
                                             1911.
-                                        </item>
-                                        <item>
-                                            <persname>Cornelius, Hans</persname>
-                                        </item>
-                                    </list>
-                                </scopecontent>
+                                        </ead:item>
+                                        <ead:item><persname>Cornelius, Hans</persname>1919.1 Br.
+                                        </ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                                 <note>
                                     <p><persname/>Beilage: ein nicht verschickter Brief von Gustav Landauer an <persname>
                                         Hans Cornelius
@@ -1683,55 +1683,54 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.13?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Dehmel, Ida</persname>
                                         -
                                         <persname>Friedeberg</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Dehmel, Ida</persname>1906
-                                        </item>
-                                        <item>1 Brief</item>
-                                        <item><persname>Dehmel, Paula</persname>Undatiert
-                                        </item>
-                                        <item><persname>Dehmel, Richard</persname>1899 und undatiert.
-                                        </item>
-                                        <item>2 Briefe</item>
-                                        <item><persname>Dempwolff, Otto</persname>1892.
-                                        </item>
-                                        <item><corpname>Deutsche Verlags-Anstalt</corpname>1906.
-                                        </item>
-                                        <item><persname>Dietrich-Schardt, Mary</persname>1916.
-                                        </item>
-                                        <item><persname>Domela Nieuwenhuis, Ferdinand</persname>1903, 1912.
-                                        </item>
-                                        <item><persname>Ebert, L.</persname>1890
-                                        </item>
-                                        <item><persname>Eeden, Frederik van</persname>1918.
-                                        </item>
-                                        <item><persname>Egidy, Louise von</persname>1898, 1899.
-                                        </item>
-                                        <item><persname>Egidy, Moritz von</persname>1894, 1897, 1898.
-                                        </item>
-                                        <item><persname>Einstein, Norbert</persname>Undatiert.
-                                        </item>
-                                        <item><persname>Eltzbacher, Paul</persname>1900.
-                                        </item>
-                                        <item><persname>Engel, Fritz</persname>1918.
-                                        </item>
-                                        <item><persname>Eulenberg, Herbert</persname>1918.
-                                        </item>
-                                        <item>
-                                            <persname>Fidus</persname>
-                                            <persname>Hugo Höppener</persname>1899.
-                                        </item>
-                                        <item><persname>Friedeberg</persname>1906.
-                                        </item>
-                                        <item>1 Brief</item>
-                                    </list>
-                                </scopecontent>
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Dehmel, Ida</persname>(= Frau Isi). 1906 . 1 Br.
+                                        </ead:item>
+                                        <ead:item>1 Brief</ead:item>
+                                        <ead:item><persname>Dehmel, Paula</persname>. Undatiert . 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Dehmel, Richard</persname>. 1899 und undatiert.
+                                        </ead:item>
+                                        <ead:item>2 Briefe</ead:item>
+                                        <ead:item><persname>Dempwolff, Otto</persname>. 1892. 1 Br.
+                                        </ead:item>
+                                        <ead:item><corpname>Deutsche Verlags-Anstalt</corpname>. 1906. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Dietrich-Schardt, Mary</persname>. 1916. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Domela Nieuwenhuis, Ferdinand</persname>. 1903, 1912. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Ebert, L.</persname>1890 . 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Eeden, Frederik van</persname>. 1918. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Egidy, Louise von</persname>. 1898, 1899. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Egidy, Moritz von</persname>. 1894, 1897, 1898. 9 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Einstein, Norbert</persname>. Undatiert. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Eltzbacher, Paul</persname>. 1900. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Engel, Fritz</persname>. 1918. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Eulenberg, Herbert</persname>. 1918. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Fidus</persname>(Pseudonym von <persname>Hugo
+                                            Höppener</persname>). 1899. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Friedeberg</persname>, [R.?] 1906.
+                                        </ead:item>
+                                        <ead:item>1 Brief</ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -1746,27 +1745,27 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.14?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Geiger, Albert</persname>
                                         -
                                         <persname>[Grossmann], Stefan</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Geiger, Albert</persname>1889-1891, 1898, 1904, 1907,
-                                            1909-1913.
-                                        </item>
-                                        <item>Beilagen: Gedicht "Dichters Morgengebet" von Albert Geiger 1909.
-                                        </item>
-                                        <item><persname>Geiger, Anna</persname>1914, 1915, 1918
-                                        </item>
-                                        <item>4 Briefe</item>
-                                        <item>Beilagen 2 Fotos</item>
-                                        <item><persname>[Grossmann], Stefan</persname>1906.
-                                        </item>
-                                    </list>
-                                </scopecontent>
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Geiger, Albert</persname>. 1889-1891, 1898, 1904, 1907,
+                                            1909-1913. 27 Br.
+                                        </ead:item>
+                                        <ead:item>Beilagen: Gedicht "Dichters Morgengebet" von Albert Geiger 1909.
+                                        </ead:item>
+                                        <ead:item><persname>Geiger, Anna</persname>. 1914, 1915, 1918 .
+                                        </ead:item>
+                                        <ead:item>4 Briefe</ead:item>
+                                        <ead:item>Beilagen 2 Fotos</ead:item>
+                                        <ead:item><persname>[Grossmann], Stefan</persname>. 1906. 1 Br.
+                                        </ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -1781,40 +1780,40 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.15?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Hardegger, Margarethe</persname>
                                         -
                                         <persname>Hollaender, Felix</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Hardegger, Margarethe</persname>1907-1908.
-                                        </item>
-                                        <item><persname>Harden, Maximilian.</persname>1900, 1902, 1903, 1906, 1907.
-                                        </item>
-                                        <item>5 Briefe</item>
-                                        <item>NB. Siehe auch Inv.-Nr. 21. Verlag der Zukunft.</item>
-                                        <item><persname>Hart, Julius</persname>1900.
-                                        </item>
-                                        <item><persname>Hauschner, Auguste</persname>1907, 1908, 1919.
-                                        </item>
-                                        <item>NB. Die Briefe aus dem Jahre 1919 sind an Lotte Landauer gerichtet.
-                                        </item>
-                                        <item><persname>Hiller, Kurt</persname>1915.
-                                        </item>
-                                        <item>Beilage: ein Brief von G.L. (=Gustav Landauer?) an Kurt Hiller.
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Hardegger, Margarethe</persname>(Harda, Mark). Photographie
+                                            mit Unterschrift. 1907-1908.
+                                        </ead:item>
+                                        <ead:item><persname>Harden, Maximilian.</persname>1900, 1902, 1903, 1906, 1907.
+                                        </ead:item>
+                                        <ead:item>5 Briefe</ead:item>
+                                        <ead:item>NB. Siehe auch Inv.-Nr. 21. Verlag der Zukunft.</ead:item>
+                                        <ead:item><persname>Hart, Julius</persname>. 1900. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Hauschner, Auguste</persname>. 1907, 1908, 1919. 4 Br.
+                                        </ead:item>
+                                        <ead:item>NB. Die Briefe aus dem Jahre 1919 sind an Lotte Landauer gerichtet.
+                                        </ead:item>
+                                        <ead:item><persname>Hiller, Kurt</persname>. 1915. 1 Br.
+                                        </ead:item>
+                                        <ead:item>Beilage: ein Brief von G.L. (=Gustav Landauer?) an Kurt Hiller.
                                             1915.
-                                        </item>
-                                        <item>
-                                            <persname>Hirzel, S.</persname>
-                                        </item>
-                                        <item><persname>Hofmannsthal, Hugo von</persname>1906.
-                                        </item>
-                                        <item><persname>Hollaender, Felix</persname>1900, 1902.
-                                        </item>
-                                    </list>
-                                </scopecontent>
+                                        </ead:item>
+                                        <ead:item><persname>Hirzel, S.</persname>1900. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Hofmannsthal, Hugo von</persname>. 1906. 1 Telegramm.
+                                        </ead:item>
+                                        <ead:item><persname>Hollaender, Felix</persname>. 1900, 1902. 2 Br.
+                                        </ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -1829,22 +1828,22 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.16?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Kaiser, Georg</persname>
                                         -
                                         <persname>Kropotkin, Peter</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Kaiser, Georg</persname>1916-1918.
-                                        </item>
-                                        <item>Beilage: eine Seite des Textes eines Schauspiels.</item>
-                                        <item><persname>Kropotkin, Peter</persname>1903-1904.
-                                        </item>
-                                        <item>3 Briefe</item>
-                                    </list>
-                                </scopecontent>
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Kaiser, Georg</persname>. 1916-1918. 30 Br. und 1 Telegramm.
+                                        </ead:item>
+                                        <ead:item>Beilage: eine Seite des Textes eines Schauspiels.</ead:item>
+                                        <ead:item><persname>Kropotkin, Peter</persname>. 1903-1904.
+                                        </ead:item>
+                                        <ead:item>3 Briefe</ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -1859,54 +1858,45 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.17?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Landauer, Fritz</persname>
                                         -
                                         <persname>Mackay, John Henry</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item>
-                                            <persname>Landauer, Fritz</persname>
-                                        </item>
-                                        <item>3 Briefe</item>
-                                        <item>
-                                            <persname>Landauer, Moritz und Hedwig</persname>
-                                        </item>
-                                        <item>NB. Auch an Siegfried gerichtet.</item>
-                                        <item>
-                                            <persname>Landauer, Rosa</persname>
-                                        </item>
-                                        <item>
-                                            <persname>Landauer, Rosa</persname>
-                                        </item>
-                                        <item>NB. 3 Briefe sind auch von Adolf Fränkel oder Hedwig mitgeschrieben
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Landauer, Fritz</persname>. 1890-1892.
+                                        </ead:item>
+                                        <ead:item>3 Briefe</ead:item>
+                                        <ead:item><persname>Landauer, Moritz und Hedwig</persname>. 1889. 1 Br.
+                                        </ead:item>
+                                        <ead:item>NB. Auch an Siegfried gerichtet.</ead:item>
+                                        <ead:item><persname>Landauer, Rosa</persname>(Mutter). 1918. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Landauer, Rosa</persname>(= Rosel). 1888-1889. 6 Br.
+                                        </ead:item>
+                                        <ead:item>NB. 3 Briefe sind auch von Adolf Fränkel oder Hedwig mitgeschrieben
                                             oder mitunterzeichnet.
-                                        </item>
-                                        <item>
-                                            <persname>Lasker-Schüler, Else</persname>
-                                        </item>
-                                        <item>
-                                            <persname>Lehmann-Kalisch, Lilli</persname>
-                                        </item>
-                                        <item>
-                                            <persname>Leonhard, Rudolf</persname>
-                                        </item>
-                                        <item>
-                                            <persname>Licho</persname>
-                                        </item>
-                                        <item>
-                                            <persname>Lindemann</persname>
-                                        </item>
-                                        <item>
-                                            <persname>Liszt, von</persname>
-                                        </item>
-                                        <item>
-                                            <persname>Mackay, John Henry</persname>
-                                        </item>
-                                    </list>
-                                </scopecontent>
+                                        </ead:item>
+                                        <ead:item><persname>Lasker-Schüler, Else</persname>. Mit einer Heiratsanzeige
+                                            von Herwarth Walden und Else Lasker-Schüler. 1902-1903, 1912 und undatiert.
+                                            9 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Lehmann-Kalisch, Lilli</persname>. 1906. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Leonhard, Rudolf</persname>. 1917. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Licho</persname>. 1914. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Lindemann</persname>. 1918. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Liszt, von</persname>. 1899. 1 Briefumschlag.
+                                        </ead:item>
+                                        <ead:item><persname>Mackay, John Henry</persname>. 1907, 1910. 2 Br.
+                                        </ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -1939,34 +1929,34 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.19?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Mayer, Gustav</persname>
                                         -
                                         <persname>Mosheim, M.</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Mayer, Gustav</persname>1912, 1916-1918.
-                                        </item>
-                                        <item>4 Briefe</item>
-                                        <item><persname>Meyerfeld</persname>1906.
-                                        </item>
-                                        <item>1 Brief</item>
-                                        <item><persname>Milan, Emil</persname>1910.
-                                        </item>
-                                        <item>1 Brief</item>
-                                        <item><persname>Mirbeau, Octave</persname>1900.
-                                        </item>
-                                        <item>1 Brief</item>
-                                        <item>NB. Brief gerichtet an Wilhelm Spohr.</item>
-                                        <item><persname>Moos, Alfred</persname>1891.
-                                        </item>
-                                        <item><persname>Mosheim, M.</persname>1895
-                                        </item>
-                                        <item>3 Briefe</item>
-                                    </list>
-                                </scopecontent>
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Mayer, Gustav</persname>. 1912, 1916-1918.
+                                        </ead:item>
+                                        <ead:item>4 Briefe</ead:item>
+                                        <ead:item><persname>Meyerfeld</persname>. 1906.
+                                        </ead:item>
+                                        <ead:item>1 Brief</ead:item>
+                                        <ead:item><persname>Milan, Emil</persname>. 1910.
+                                        </ead:item>
+                                        <ead:item>1 Brief</ead:item>
+                                        <ead:item><persname>Mirbeau, Octave</persname>. 1900. Beilage: Notiz.
+                                        </ead:item>
+                                        <ead:item>1 Brief</ead:item>
+                                        <ead:item>NB. Brief gerichtet an Wilhelm Spohr.</ead:item>
+                                        <ead:item><persname>Moos, Alfred</persname>. 1891. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Mosheim, M.</persname>1895 .
+                                        </ead:item>
+                                        <ead:item>3 Briefe</ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -1981,58 +1971,54 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.20?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Mühsam, Erich</persname>
                                         -
                                         <persname>Toller, Ernst</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Mühsam, Erich</persname>1909, 1913.
-                                        </item>
-                                        <item>NB. Der Brief aus dem Jahre 1913 ist ein als Postkarte verschicktes
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Mühsam, Erich</persname>. 1909, 1913. 2 Br.
+                                        </ead:item>
+                                        <ead:item>NB. Der Brief aus dem Jahre 1913 ist ein als Postkarte verschicktes
                                             Porträt.
-                                        </item>
-                                        <item><persname>Nettlau, Max</persname>1904, 1913, 1919.
-                                        </item>
-                                        <item>4 Briefe</item>
-                                        <item><persname>Neumann, Julius</persname>1910
-                                        </item>
-                                        <item>1 Brief</item>
-                                        <item><persname>Norlind, Ernst</persname>1916.
-                                        </item>
-                                        <item><persname>Oehlkers, Friedrich</persname>Undatiert.
-                                        </item>
-                                        <item><persname>Oerter, Fritz</persname>1911.
-                                        </item>
-                                        <item>
-                                            <persname>Oerter, Sepp</persname>
-                                            <corpname>Der Freie
-                                                Arbeiter
-                                            </corpname>
-                                        </item>
-                                        <item><persname>Oppenheimer, Franz</persname>1911.
-                                        </item>
-                                        <item><persname>Peukert, Marie</persname>1910, 1912
-                                        </item>
-                                        <item>
-                                            <persname>Ramus, Pierre</persname>
-                                            <persname>Rudolf Grossmann</persname>
-                                        </item>
-                                        <item><persname>Remer, Paul</persname>1906.
-                                        </item>
-                                        <item><persname>Rubiner, Ludwig</persname>1917.
-                                        </item>
-                                        <item><persname>Salomé, Lou Andreas-</persname>1910, 1911.
-                                        </item>
-                                        <item>
-                                            <persname>Schreiber, Otto</persname>
-                                        </item>
-                                        <item><persname>Toller, Ernst</persname>1917.
-                                        </item>
-                                    </list>
-                                </scopecontent>
+                                        </ead:item>
+                                        <ead:item><persname>Nettlau, Max</persname>. 1904, 1913, 1919. 4 Br.
+                                        </ead:item>
+                                        <ead:item>4 Briefe</ead:item>
+                                        <ead:item><persname>Neumann, Julius</persname>. 1910 .
+                                        </ead:item>
+                                        <ead:item>1 Brief</ead:item>
+                                        <ead:item><persname>Norlind, Ernst</persname>. 1916. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Oehlkers, Friedrich</persname>. Undatiert. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Oerter, Fritz</persname>. 1911. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Oerter, Sepp</persname>. ( <corpname>Der Freie
+                                            Arbeiter</corpname>). 1907. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Oppenheimer, Franz</persname>. 1911. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Peukert, Marie</persname>. 1910, 1912 . 3 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Ramus, Pierre</persname>(Pseudonym von <persname>Rudolf
+                                            Grossmann</persname>). 1907. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Remer, Paul</persname>. 1906. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Rubiner, Ludwig</persname>. 1917. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Salomé, Lou Andreas-</persname>. 1910, 1911. 3 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Schreiber, Otto</persname>. Undatiert. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Toller, Ernst</persname>. 1917. 1 Br. Beilage: Gedichte
+                                            Ernst Tollers.
+                                        </ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -2117,20 +2103,20 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.23?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     -
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item/>
-                                    <item>1 Umschlage</item>
-                                    <item>1891.</item>
-                                    <item>1892.</item>
-                                    <item>NB. Siehe auch 72.</item>
-                                    <item>1909.</item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item>Briefe an Gustav Landauer. Alphabetisch nach Vornamen.</ead:item>
+                                    <ead:item>1 Umschlage</ead:item>
+                                    <ead:item>Carl [Landauer?]. 1891. 2 Br.</ead:item>
+                                    <ead:item>Clara [Landauer?]. 1892. 1 Br.</ead:item>
+                                    <ead:item>NB. Siehe auch 72.</ead:item>
+                                    <ead:item>Felix [Hollaender?]. 1909. 1 Br.</ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="file">
                             <did>
@@ -2160,31 +2146,31 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.24?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Däubler, Theodor.</persname>
                                         -
                                         <persname>Rolland, Romain</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item>NB. Mit einem nicht unterzeichneten Rundschreiben. 1914.Siehe auch
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item>NB. Mit einem nicht unterzeichneten Rundschreiben. 1914.Siehe auch
                                             Inv.-Nr. 118.
-                                        </item>
-                                        <item><persname>Däubler, Theodor.</persname>1914.
-                                        </item>
-                                        <item><persname>Eeden, Frederik van</persname>1914 und undatiert.
-                                        </item>
-                                        <item><persname>Gutkind, Erich</persname>1914 und undatiert.
-                                        </item>
-                                        <item><persname>Landauer, Gustav</persname>1915.
-                                        </item>
-                                        <item><persname>Rang, Florens Christian</persname>1914
-                                        </item>
-                                        <item><persname>Rolland, Romain</persname>1914
-                                        </item>
-                                    </list>
-                                </scopecontent>
+                                        </ead:item>
+                                        <ead:item><persname>Däubler, Theodor.</persname>1914. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Eeden, Frederik van</persname>. 1914 und undatiert. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Gutkind, Erich</persname>. 1914 und undatiert. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Landauer, Gustav</persname>. 1915. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Rang, Florens Christian</persname>. 1914 . 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Rolland, Romain</persname>. 1914 . 1 Br.
+                                        </ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -2199,33 +2185,32 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.25?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Bjerre, Poul</persname>
                                         -
                                         <persname>Rolland, Romain</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Bjerre, Poul</persname>1914.
-                                        </item>
-                                        <item><persname>Borel, Henri</persname>1914 und undatiert
-                                        </item>
-                                        <item><persname>Däubler, Theodor</persname>1914.
-                                        </item>
-                                        <item>
-                                            <persname>Eeden, Frederik van</persname>
-                                        </item>
-                                        <item><persname>Gutkind, Erich</persname>1914 und undatiert.
-                                        </item>
-                                        <item><persname>Norlind, Ernst</persname>Undatiert.
-                                        </item>
-                                        <item><persname>Rang, Florens Christian</persname>1914.
-                                        </item>
-                                        <item><persname>Rolland, Romain</persname>Undatiert.
-                                        </item>
-                                    </list>
-                                </scopecontent>
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Bjerre, Poul</persname>. 1914. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Borel, Henri</persname>. 1914 und undatiert . 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Däubler, Theodor</persname>. 1914. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Eeden, Frederik van</persname>. 1914. 7 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Gutkind, Erich</persname>. 1914 und undatiert. 7 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Norlind, Ernst</persname>. Undatiert. 1 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Rang, Florens Christian</persname>. 1914. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Rolland, Romain</persname>. Undatiert. 1 Br.
+                                        </ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                             <c05 level="item">
                                 <did>
@@ -2240,36 +2225,37 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.26?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>
+                                    <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                         <persname>Bjerre, Poul</persname>
                                         -
                                         <persname>Rolland, Romain</persname>
-                                    </unittitle>
+                                    </ead:unittitle>
                                 </did>
-                                <scopecontent>
-                                    <list>
-                                        <item><persname>Bjerre, Poul</persname>1914-1915 und undatiert.
-                                        </item>
-                                        <item><persname>Borel, Henri</persname>1914-1915.
-                                        </item>
-                                        <item><persname>Buber, Martin</persname>1914.
-                                        </item>
-                                        <item>NB. Siehe auch Inv.-Nr. 115.</item>
-                                        <item><persname>Eeden, Frederik van</persname>1914-1915 und undatiert.
-                                        </item>
-                                        <item><persname>Gutkind, Erich</persname>1914-1915.
-                                        </item>
-                                        <item><persname>Landauer, Gustav</persname>1914-1915.
-                                        </item>
-                                        <item>NB. Siehe auch Buber, Martin.</item>
-                                        <item><persname>Norlind, Ernst</persname>1915, 1917 und undatiert.
-                                        </item>
-                                        <item><persname>Rang, Florens Christian</persname>1914-1915.
-                                        </item>
-                                        <item><persname>Rolland, Romain</persname>1914.
-                                        </item>
-                                    </list>
-                                </scopecontent>
+                                <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                    <ead:list>
+                                        <ead:item><persname>Bjerre, Poul</persname>. 1914-1915 und undatiert. 9 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Borel, Henri</persname>. 1914-1915. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Buber, Martin</persname>und Landauer, Gustav. 1914. 1 Br.
+                                        </ead:item>
+                                        <ead:item>NB. Siehe auch Inv.-Nr. 115.</ead:item>
+                                        <ead:item><persname>Eeden, Frederik van</persname>. 1914-1915 und undatiert. 7
+                                            Br.
+                                        </ead:item>
+                                        <ead:item><persname>Gutkind, Erich</persname>. 1914-1915. 6 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Landauer, Gustav</persname>. 1914-1915. 3 Br.
+                                        </ead:item>
+                                        <ead:item>NB. Siehe auch Buber, Martin.</ead:item>
+                                        <ead:item><persname>Norlind, Ernst</persname>. 1915, 1917 und undatiert. 3 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Rang, Florens Christian</persname>. 1914-1915. 2 Br.
+                                        </ead:item>
+                                        <ead:item><persname>Rolland, Romain</persname>. 1914. 1 Br.
+                                        </ead:item>
+                                    </ead:list>
+                                </ead:scopecontent>
                             </c05>
                         </c04>
                     </c03>
@@ -2706,23 +2692,37 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.46?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>NB. Ursprünglich in: Der Sozialist, [9. Jg., 1899?].</item>
-                                <item/>
-                                <item>1 Umschlag</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"Sprache und Schrift", in: Das Magazin für Literatur, 61. Jg., Nrn. 10 und 12,
+                                    5. und 19. März 1892. Mit einigen Rezensionen von G.L. (= Gustav Landauer?). 2
+                                    Hefte.
+                                </ead:item>
+                                <ead:item>"Der Anarchismus in Deutschland", in: Die Zukunft, 3. Jg., Heft 14, 1895.
+                                    Ausschnitt.
+                                </ead:item>
+                                <ead:item>"Reise-Eindrücke" und "Reiseberichte", in: Der Sozialist, 7. Jg., Nrn. 40 und
+                                    43, 1897. 2 Stücke.
+                                </ead:item>
+                                <ead:item>"Vortragscyklus zur Geschichte der deutschen Litteratur", in: Der Sozialist,
+                                    8. Jg., Nr. 9, 1898. 1 Stück.
+                                </ead:item>
+                                <ead:item>Zirkular an die Mitglieder des Reichstages betr. den Prozess Ziethen. 1898. 1
+                                    Stück.
+                                </ead:item>
+                                <ead:item>"De strijd over Bernstein". Amsterdam, undatiert. Broschüre. 1 Umschlag.
+                                </ead:item>
+                                <ead:item>NB. Ursprünglich in: Der Sozialist, [9. Jg., 1899?].</ead:item>
+                                <ead:item>"Friedrich Nietzsche", in: Ateneum, Helsingfors, 15. Dezember 1900.
+                                    Ausschnitt.
+                                </ead:item>
+                                <ead:item>1 Umschlag</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                     <c03 level="file">
                         <did>
@@ -2737,20 +2737,28 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.47?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>1 Umschlag</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"Paracelsus", in: Das literarische Echo. Halbmonatsschrift für
+                                    Literaturfreunde, 7. Jg., Nr. 21, 1905. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Die neue freie Volksbühne", in: Die Schaubühne, 1. Jg., Nr. 7, 1905. 1
+                                    Heft.
+                                </ead:item>
+                                <ead:item>Leserbrief in: Die Schaubühne, 2. Jg., Nr. 5, 1906. 1 Heft.</ead:item>
+                                <ead:item>"Walter Calé", in: Das Blaubuch, Wochenschrift für offentliches Leben,
+                                    Literatur und Kunst, 2. Jg., Nr. 1, 1907. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Algernon Charles Swinburne, zu seinem siebzigsten Geburtstag", in: Zeitgeist,
+                                    Nr. 13, 1907. Zeitungsausschnitt und Abschrift.
+                                </ead:item>
+                                <ead:item>1 Umschlag</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                     <c03 level="file">
                         <did>
@@ -2765,23 +2773,38 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.48?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>1 Mappe</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"Emanuel von Bodman", in: Das literarische Echo, 10. Jg., Heft 15, 1908. 1
+                                    Heft.
+                                </ead:item>
+                                <ead:item>"Jonathan Swifts Prosaschriften", in: Das literarische Echo, 11. Jg., Heft 11,
+                                    1909. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Hinter Schloss und Riegel", Rezension in: Das literarische Echo, 13. Jg.,
+                                    Heft 9, 1911. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Der gefesselte Faust", Rezension in: Das literarische Echo, 13. Jg., Heft 11,
+                                    1911. 1 Heft.
+                                </ead:item>
+                                <ead:item>Leserbrief in: Das literarische Echo, 13. Jg., Heft 14, 1911. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Holzamers Lebensbuch", Rezension in: Das literarische Echo, 13. Jg., Heft 20,
+                                    1911. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Deutsche Freundesbriefe aus sechs Jahrhunderten und Frauenbriefe aller
+                                    Zeiten", Rezension in: Das literarische Echo, 13. Jg., Heft 21, 1911. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Björnstjerne Björnson. Briefe an seine Tochter Bergliot Ibsen", Rezension in:
+                                    Das literarische Echo, 14. Jg., Heft 13, 1912. 1 Heft.
+                                </ead:item>
+                                <ead:item>1 Mappe</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                     <c03 level="file">
                         <did>
@@ -2796,26 +2819,47 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.49?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>1 Mappe</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"Holzamers Nachlass", in: Das literarische Echo, 15. Jg., Heft 3, 1912. 1
+                                    Heft.
+                                </ead:item>
+                                <ead:item>"Fritz Mauthners Buddha-Dichtung", in: Berliner Tageblatt, 41. Jg., Nr. 635,
+                                    1912. 1 Stück.
+                                </ead:item>
+                                <ead:item>"Sind das Ketzergedanken?" Aus: Vom Judentum. Ein Sammelbuch, Prag-Leipzig,
+                                    1913. Separatabdruck.
+                                </ead:item>
+                                <ead:item>"Rabintranath Tagore", in: Das Programm. Blätter der Münchener Kammerspiele,
+                                    Nr. 10, 1916. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Strindbergs historische Miniaturen. Ein Vortrag". Aus: Der Jude, 2. Jg., Bd.
+                                    2, 1917. Separatabdruck.
+                                </ead:item>
+                                <ead:item>"Zu Tolstois Tagebuch", in: Die Weltbühne - Die Schaubühne. Wochenschrift für
+                                    Politik, Kunst, Wirtschaft, 14. Jg., Nr. 19, 1918. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Von der tierischen Grundlage", in: Die Weltbühne - Die Schaubühne, 14. Jg.,
+                                    Nr. 27, 1918. 1 Heft. 1 Umschlag.
+                                </ead:item>
+                                <ead:item>"Die Vereinigten Republiken Deutschlands und ihre Verfassung", Broschüre, aus
+                                    der Reihe Das Flugblatt, Kurze Schriften zur politischen Bildung, III, Frankfurt
+                                    a.M., 1918. 2 Hefte.
+                                </ead:item>
+                                <ead:item>"Goethes Politik, eine Ankündigung", 1918. Korrekturbogen.</ead:item>
+                                <ead:item>"Strindbergs Traumspiel", in: Masken. Halbmonatsschrift des Düsseldorfer
+                                    Schauspielhauses, 14. Jg., Heft 4, 1918-1919. 1 Heft.
+                                </ead:item>
+                                <ead:item>"Einleitung in Strindbergs Gespenstersonate", in: Das Forum, 3. Jg., Heft 6,
+                                    1919. 1 Heft.
+                                </ead:item>
+                                <ead:item>1 Mappe</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                 </c02>
                 <c02 level="subseries">
@@ -4184,28 +4228,26 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.111?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Bahr, Hermann</persname>
                                     -
                                     <persname>Bendemann-Susmann, Margarete von</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Bahr, Hermann</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Bebel, August</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Beer, Ludwig</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Bendemann-Susmann, Margarete von</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Bahr, Hermann</persname>. 1903, 1906, 1908-1910. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Bebel, August</persname>. 1898. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Beer, Ludwig</persname>. 1914, 1918. 3 Originalbriefe und eine
+                                        Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Bendemann-Susmann, Margarete von</persname>. 1912, 1915-1919.
+                                        Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="file">
                             <did>
@@ -4239,39 +4281,33 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.113?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Bittel, Karl</persname>
                                     -
                                     <persname>Britschgi-Schimmer, Ina</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item><persname>Bittel, Karl</persname>1915.
-                                    </item>
-                                    <item>
-                                        <persname>Bjerre, Paul</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Blüher, (Hans?)</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Blum-Neff, (Emil?)</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Bodman, Emmanuel von</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Borel, Henri</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Borgius, Walter</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Britschgi-Schimmer, Ina</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Bittel, Karl</persname>. 3 Originalbriefe und Abschriften. 1915.
+                                    </ead:item>
+                                    <ead:item><persname>Bjerre, Paul</persname>. 1915. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Blüher, (Hans?)</persname>. 1916. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Blum-Neff, (Emil?)</persname>. 1893. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Bodman, Emmanuel von</persname>. 1908-1909, 1913. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Borel, Henri</persname>. 1915. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Borgius, Walter</persname>. 1908. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Britschgi-Schimmer, Ina</persname>. 1912, [1916]. 2
+                                        Originalbriefe.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="file">
                             <did>
@@ -4355,47 +4391,40 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.117?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Chinda, Sutemi (Baron)</persname>
                                     -
                                     <persname>Dumont-Lindemann, Louise</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Chinda, Sutemi (Baron)</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Croissant, Hermann</persname>
-                                        <persname>Croissant-Rust,
-                                            Anna
-                                        </persname>
-                                    </item>
-                                    <item>
-                                        <persname>Dehmel, Heinz</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Dehmel, Richard</persname>
-                                        <persname>Dehmel, Isi</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Deipser, Lia.</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Dempwolff, Otto</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Deutsch, Regine</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Dohrn, Harald</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Dumont-Lindemann, Louise</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Chinda, Sutemi (Baron)</persname>. 1911. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Croissant, Hermann</persname>und <persname>Croissant-Rust,
+                                        Anna</persname>. 1909, 1918. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Dehmel, Heinz</persname>. 1913, 1918. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Dehmel, Richard</persname>und <persname>Dehmel, Isi</persname>.
+                                        1901-1903, 1905, 1907, 1909, 1912-1914. 1 Originalbrief und Abschriften. Enthält
+                                        auch Abschriften von Briefen von Richard und Isi Dehmel an Gustav Landauer und
+                                        Hedwig Landauer-Lachmann.
+                                    </ead:item>
+                                    <ead:item><persname>Deipser, Lia.</persname>1919. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Dempwolff, Otto</persname>. 1918. 1 Originalbrief und eine
+                                        Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Deutsch, Regine</persname>. 1899. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Dohrn, Harald</persname>(Frau). 1917. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Dumont-Lindemann, Louise</persname>. 1917-1919. Abschriften. Mit
+                                        Abschriften von Briefen an Gustav Lindemann.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -4410,28 +4439,27 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.118?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Ebert Wolff, Ida</persname>
                                     -
                                     <persname>Eltzbacher, Paul</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Ebert Wolff, Ida</persname>
-                                    </item>
-                                    <item><persname>Eeden, Frederik van</persname>1915.
-                                    </item>
-                                    <item>
-                                        <persname>Eisner, Kurt</persname>
-                                        <persname>Eisner, Else</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Eltzbacher, Paul</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Ebert Wolff, Ida</persname>. 1909. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Eeden, Frederik van</persname>. 1910, 1915. Abschriften. Mit
+                                        einer Abschrift eines Briefes an die Mitglieder des Forte-Kreises. 1915.
+                                    </ead:item>
+                                    <ead:item><persname>Eisner, Kurt</persname>und <persname>Eisner, Else</persname>.
+                                        1917-1919. Abschriften. Mit einer Abschrift eines Briefes von Kurt Eisner an
+                                        Gustav Landauer. 1918.
+                                    </ead:item>
+                                    <ead:item><persname>Eltzbacher, Paul</persname>. 1900. Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -4464,28 +4492,27 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.120?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Franck, Hans</persname>
                                     -
                                     <persname>Greeven, Erich August</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Franck, Hans</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Friedeberg, R</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Geiger, Albert</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Greeven, Erich August</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Franck, Hans</persname>. 1916-1918. 6 Originalbriefe und
+                                        Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Friedeberg, R</persname>. 1908-1910, 1913-1915, 1919.
+                                        Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Geiger, Albert</persname>. 1909-1910. 6 Originalbriefe und
+                                        Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Greeven, Erich August</persname>. 1919. Abschrift.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -4500,25 +4527,25 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.121?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Grigorowicz, Olga</persname>
                                     -
                                     <persname>Harden, Maximilian</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Grigorowicz, Olga</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Gumplowicz [Ladislaus?]</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Harden, Maximilian</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Grigorowicz, Olga</persname>. 1900. 1 Originalbrief mit einer
+                                        Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Gumplowicz [Ladislaus?]</persname>. 1910. Abschrift. Mit einem
+                                        Brief von Gumplowicz an Gustav Landauer. Undatiert.
+                                    </ead:item>
+                                    <ead:item><persname>Harden, Maximilian</persname>. 1900-1903, 1906, 1908, 1918 und
+                                        undatiert. 13 Originalbriefe und Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -4552,31 +4579,30 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.123?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Hegner, Jakob</persname>
                                     -
                                     <persname>Huebner, F.M.</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Hegner, Jakob</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Hiller, Kurt</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Hofmannsthal, Hugo von</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Höppener (Fidus), Hugo</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Huebner, F.M.</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Hegner, Jakob</persname>. 1916, 1918-1919. 2 Originalbriefe und
+                                        Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Hiller, Kurt</persname>. 1915. Abschrift. Mit 7 Briefen von Kurt
+                                        Hiller an Gustav Landauer. 1915-1917.
+                                    </ead:item>
+                                    <ead:item><persname>Hofmannsthal, Hugo von</persname>. 1904-1905, 1907. Abschriften.
+                                        1 Umschlag.
+                                    </ead:item>
+                                    <ead:item><persname>Höppener (Fidus), Hugo</persname>. 1909, 1918. 2 Originalbriefe
+                                        und Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Huebner, F.M.</persname>1915. Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -4591,25 +4617,22 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.124?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Jacobsohn, Siegfried.</persname>
                                     -
                                     <persname>Joël, Ernst</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Jacobsohn, Siegfried.</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Januasch, Lili</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Joël, Ernst</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Jacobsohn, Siegfried.</persname>1906, 1914-1919. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Januasch, Lili</persname>. 1916. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Joël, Ernst</persname>. 1915-1916. Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -4624,31 +4647,30 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.125?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Kampffmeyer, Bernhard</persname>
                                     -
                                     <persname>Kropotkin, Peter</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Kampffmeyer, Bernhard</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Kersten, Kurt</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Kestenberg, Leo</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Kienzl, Hermann</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Kropotkin, Peter</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Kampffmeyer, Bernhard</persname>. 1905-1907, 1910, 1912. 13
+                                        Originalbriefe, davon ein Brief auch von Hedwig Landauer-Lachmann, und
+                                        Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Kersten, Kurt</persname>. 1912. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Kestenberg, Leo</persname>. 1917-1919. Abschriften. Enthält auch
+                                        Abschriften eines Briefes von Paul Cassirer(?) an Erich Mühsam. 1920.
+                                    </ead:item>
+                                    <ead:item><persname>Kienzl, Hermann</persname>. 1918. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Kropotkin, Peter</persname>. 1907. 1 Originalbrief und eine
+                                        Abschrift.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -4758,27 +4780,25 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.131?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Lange, Rudolf</persname>
                                     -
                                     <persname>Losch, Jacob</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item><persname>Lange, Rudolf</persname>1913. 1910.
-                                    </item>
-                                    <item>
-                                        <persname>Leonhard, Rudolf</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Licho, Albert</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Losch, Jacob</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Lange, Rudolf</persname>. 1913. 3 Originalbriefe und
+                                        Abschriften. Mit einem Brief von Rudolf Lange an Gustav Landauer. 1910.
+                                    </ead:item>
+                                    <ead:item><persname>Leonhard, Rudolf</persname>. 1915-1917. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Licho, Albert</persname>. 1912, 1914, 1916. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Losch, Jacob</persname>. 1912-1915, 1918. Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="file">
                             <did>
@@ -4872,30 +4892,28 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.136?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Mayer, Gustav</persname>
                                     -
                                     <persname>Mombert, Alfred</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Mayer, Gustav</persname>
-                                    </item>
-                                    <item><persname>Meng, Heinrich</persname>1919.
-                                    </item>
-                                    <item>
-                                        <persname>Meyer, Alfred Richard</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Mohr, Karl</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Mombert, Alfred</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Mayer, Gustav</persname>. 1912, 1919. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Meng, Heinrich</persname>. 1919. Abschriften. Mit einem Brief
+                                        von Heinrich Meng an Gustav Landauer. 1919.
+                                    </ead:item>
+                                    <ead:item><persname>Meyer, Alfred Richard</persname>. 1916. Abschrift. Mit einem
+                                        Brief von Alfred Richard Meyer an Gustav Landauer. 1919.
+                                    </ead:item>
+                                    <ead:item><persname>Mohr, Karl</persname>. 1915. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Mombert, Alfred</persname>. 1901, 1909, 1916, 1918. Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -4945,29 +4963,26 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.139?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Müller, Max</persname>
                                     -
                                     <persname>N
                                         atouck
                                     </persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Müller, Max</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Mutzenbecher, H.E.</persname>
-                                    </item>
-                                    <item>
-                                        <persname>N
-                                            atouck
-                                        </persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Müller, Max</persname>. 1909-1919. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Mutzenbecher, H.E.</persname>1919. 1 Originalbrief und eine
+                                        Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>N
+                                        atouck</persname>. 1918. Abschrift.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="file">
                             <did>
@@ -5021,30 +5036,30 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.142?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Neumann, Adolf</persname>
                                     -
                                     <persname>Otto, Adolf</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Neumann, Adolf</persname>
-                                    </item>
-                                    <item><persname>Nohl, Johannes</persname>1915.
-                                    </item>
-                                    <item>
-                                        <persname>Norlind, Ernst</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Oerter, Fritz</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Otto, Adolf</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Neumann, Adolf</persname>. 1918-1919. Abschriften. Mit
+                                        Abschriften von Briefen von Adolf Neumann an Gustav Landauer. 1918-1919.
+                                    </ead:item>
+                                    <ead:item><persname>Nohl, Johannes</persname>. 1915. Abschrift. Mit einer Abschrift
+                                        eines Briefes von Johannes Nohl an Gustav Landauer. 1915.
+                                    </ead:item>
+                                    <ead:item><persname>Norlind, Ernst</persname>. 1915. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Oerter, Fritz</persname>. 1916-1918. 3 Originalbriefe und eine
+                                        Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Otto, Adolf</persname>und Fränze. Auch an Julius. 1916-1919.
+                                        Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -5059,28 +5074,25 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.143?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Pawlowitsch, Paul</persname>
                                     -
                                     <persname>Reichenbach, Bernhard</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Pawlowitsch, Paul</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Petermann, Hedwig</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Poepke, A.</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Reichenbach, Bernhard</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Pawlowitsch, Paul</persname>. 1901, 1913-1914. Abschriften. Mit
+                                        einer Abschrift eines Briefes von Paul Pawlowitsch an Gustav Landauer. 1901.
+                                    </ead:item>
+                                    <ead:item><persname>Petermann, Hedwig</persname>. 1919. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Poepke, A.</persname>1915. 2 Originalbriefe und eine Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Reichenbach, Bernhard</persname>. 1915. Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -5095,37 +5107,33 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.144?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Scheler, Max</persname>
                                     -
                                     <persname>Stromer-Reichenbach, Friedrich</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Scheler, Max</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Schnabel, Karl</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Schottlaender, Bernhard</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Seligmann, R.</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Slottko, Emilie</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Springer, Georg</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Stromer-Reichenbach, Friedrich</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Scheler, Max</persname>. 1915. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Schnabel, Karl</persname>. 1908. 8 Originalbriefe und
+                                        Abschriften. Mit einem Brief von Fritz Mauthner an Karl Schnabel. 1908.
+                                    </ead:item>
+                                    <ead:item><persname>Schottlaender, Bernhard</persname>. 1915-1916. 2 Originalbriefe
+                                        und Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Seligmann, R.</persname>1910. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Slottko, Emilie</persname>. 1918-1919. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Springer, Georg</persname>. 1917-1919. 17 Originalbriefe und
+                                        Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Stromer-Reichenbach, Friedrich</persname>. 1918. Abschrift.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -5140,37 +5148,31 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.145?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Tagger, Theodor</persname>
                                     -
                                     <persname>Walden, [Herwarth]</persname>
                                     <persname>Else
                                         Lasker-Schüler
                                     </persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Tagger, Theodor</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Tepper, Kurt von</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Thies, Heinz</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Vogel, Carl und Werner</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Walden, [Herwarth]</persname>
-                                        <persname>Else
-                                            Lasker-Schüler
-                                        </persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Tagger, Theodor</persname>. 1917. Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Tepper, Kurt von</persname>(= Laski). 1918. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Thies, Heinz</persname>. 1919. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Vogel, Carl und Werner</persname>. 1909, 1911, 1914, 1916, 1918.
+                                        Abschriften.
+                                    </ead:item>
+                                    <ead:item><persname>Walden, [Herwarth]</persname>und Frau (= <persname>Else
+                                        Lasker-Schüler</persname>). 1903-1904. Abschriften.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                         <c04 level="item">
                             <did>
@@ -5203,25 +5205,22 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.147?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     <persname>Weidner, Albert</persname>
                                     -
                                     <persname>Wolff, Kurt</persname>
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item>
-                                        <persname>Weidner, Albert</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Wolfenstein, Alfred</persname>
-                                    </item>
-                                    <item>
-                                        <persname>Wolff, Kurt</persname>
-                                    </item>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item><persname>Weidner, Albert</persname>. 1907. 1 Originalbrief.
+                                    </ead:item>
+                                    <ead:item><persname>Wolfenstein, Alfred</persname>. 1915. Abschrift.
+                                    </ead:item>
+                                    <ead:item><persname>Wolff, Kurt</persname>. 1916. Abschrift.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                     </c03>
                     <c03 level="file">
@@ -5360,18 +5359,25 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.153?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>1 Umschlag</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"Das neue soziale Drama", in: Deutschland. Wochenschrift für Kunst, Literatur,
+                                    Wissenschaft und soziales Leben, 1. Jg., Nr. 28, 1890.
+                                </ead:item>
+                                <ead:item>"Unteroffiziere", Rezension der deutschen Ausgabe eines Romans von Lucien
+                                    Descaves, in: Deutschland. Wochenschrift für Kunst, Literatur, Wissenschaft und
+                                    soziales Leben, 1. Jg., Nr. 39, 1890.
+                                </ead:item>
+                                <ead:item>"Religiöse Jugenderziehung", in: Die Neue Rundschau. Freie Bühne für modernes
+                                    Leben, 2. Jg., Heft 6, 1891.
+                                </ead:item>
+                                <ead:item>1 Umschlag</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                     <c03 level="file">
                         <did>
@@ -5449,20 +5455,29 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.157?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item>NB. Nur das Titelblatt ist vorhanden.</item>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>1 Umschlag</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"Die Zukunft und die Kunst", in: Die Neue Zeit. Wochenschrift der deutschen
+                                    Sozialdemokratie, 10. Jg., I. Band, Heft 17, 1892.
+                                </ead:item>
+                                <ead:item>NB. Nur das Titelblatt ist vorhanden.</ead:item>
+                                <ead:item>"Gerhart Hauptmann", in: Die Neue Zeit. Wochenschrift der deutschen
+                                    Sozialdemokratie, 10. Jg., I. Band, Heft 20, 1892.
+                                </ead:item>
+                                <ead:item>"An den Züricher Kongress. Bericht über die Arbeiterbewegung in Deutschland",
+                                    in: Der Sozialist, 3. Jg., Nr. 31 und 32, 1893. Auch als Broschüre herausgegeben,
+                                    Berlin, 1893.
+                                </ead:item>
+                                <ead:item>"Fritz Mauthner's Kraft", Rezension, in: Die Nation. Wochenschrift für
+                                    Politik, Volkswirtschaft und Litteratur, 12. Jg., Nr. 17, 1895.
+                                </ead:item>
+                                <ead:item>1 Umschlag</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                     <c03 level="file">
                         <did>
@@ -5477,26 +5492,45 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.158?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>1 Umschlag</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"M. von Egidy und der Sozialistische Akademiker", in: Der sozialistische
+                                    Akademiker, 2. Jg., Heft 3, 1896.
+                                </ead:item>
+                                <ead:item>"Anarchismus-Sozialismus", in: Der sozialistische Akademiker, 2. Jg., Heft 12,
+                                    1896.
+                                </ead:item>
+                                <ead:item>"Die Anarchistenhetze in Spanien", in: Sozialistische Monatshefte, 1. Jg.,
+                                    Heft 10, 1897.
+                                </ead:item>
+                                <ead:item>"Bismarck. Ein Zwiegespräch", in: Der arme Konrad, 3. Jg., Nr 32, 1898.
+                                </ead:item>
+                                <ead:item>"Das Liebesleben in der Natur", Rezension eines Buches von Wilhelm Bölsche,
+                                    in: Die Gesellschaft. Halbmonatsschrift für Litteratur, Kunst und Sozialpolitik, 14.
+                                    Jg., Heft 24, 1898.
+                                </ead:item>
+                                <ead:item>"Wesen und Aussichten des Revolutionarismus", in: Die Welt am Montag,
+                                    10.5.1899. Maschinenschrift.
+                                </ead:item>
+                                <ead:item>"Börne und der Anarchismus", in: Sozialistische Monatshefte, 3. Jg., Juliheft,
+                                    189,9; und in: Der Arme Konrad, 4. Jg., Nr. 27/28, 1899.
+                                </ead:item>
+                                <ead:item>"In Sachen Ziethen", in: Sozialistische Monatshefte, 3. Jg., Juli-heft,
+                                    1899.
+                                </ead:item>
+                                <ead:item>"Das Ziethen-Urteil", in: Der Sozialist. Anarchistische Monatsschrift, 9. Jg.,
+                                    Septemberheft, 1899.
+                                </ead:item>
+                                <ead:item>"Der neue Gott", in: Die Gesellschaft, 15. Jg., Band 4, 1899.</ead:item>
+                                <ead:item>"Der deutsche Multatuli", in: Die Gesellschaft, 15. Jg., Band 4, 1899.
+                                </ead:item>
+                                <ead:item>1 Umschlag</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                     <c03 level="file">
                         <did>
@@ -5511,23 +5545,40 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.159?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>1 Umschlag</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"Durch Absonderung zur Gemeinsamkeit", in: Die neue Gemeinschaft. Mitteilungen
+                                    für Mitglieder und Gleichgesinnte, Nr. 6, 1900. Auch in: Heinrich Hart [u.a.] (Hg.):
+                                    Die neue Gemeinschaft, ein Orden vom wahren Leben. Vorträge und Aussprachen gehalten
+                                    bei den Weihefesten, den Versammlungen und Liebesmahlen der Neuen Gemeinschaft,
+                                    Leipzig, 1901. Unvollständige Abschrift.
+                                </ead:item>
+                                <ead:item>"Memoiren eines Revolutionärs", in: Die Zeit. Wiener Wochenschrift, 25. Band,
+                                    Nr. 325, 1900.
+                                </ead:item>
+                                <ead:item>"Anarchistische Gedanken über Anarchismus", in: Die Zukunft, Band 37, 10. Jg.,
+                                    Nr. 4, 1901.
+                                </ead:item>
+                                <ead:item>"Die neue Welterkenntnis", in: Die Kultur, 1 Jg., Heft 10, 1902.</ead:item>
+                                <ead:item>"Einfälle und Betrachtungen. Philosophische und weltliche Gedanken von Mathias
+                                    Auerbach", Rezension, in: Das literarische Echo, 7. Jg, Heft 4, 1904.
+                                </ead:item>
+                                <ead:item>"Ueber Liebe und Ehe. Essais von Ellen Key", Rezension, in: Das literarische
+                                    Echo, 7. Jg., Heft 12, 1905.
+                                </ead:item>
+                                <ead:item>"De Profundis. Aufzeichnungen und Briefe aus dem Zuchthaus in Reading von
+                                    Oscar Wilde", Rezension, in: Das literarische Echo, 7. Jg., Heft 19, 1905.
+                                </ead:item>
+                                <ead:item>"Nachbildung der im Jahre 1902 noch erhaltenen eigenhändigen Briefe des
+                                    Benedictus Despinosa", Rezension, in: Das literarische Echo, 7. Jg., Heft 20, 1905.
+                                </ead:item>
+                                <ead:item>1 Umschlag</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                     <c03 level="file">
                         <did>
@@ -5542,27 +5593,51 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.160?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>
+                            <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                 -
-                            </unittitle>
+                            </ead:unittitle>
                         </did>
-                        <scopecontent>
-                            <list>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item/>
-                                <item>1 Umschlag</item>
-                            </list>
-                        </scopecontent>
+                        <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                            <ead:list>
+                                <ead:item>"Ausserordentlicher Parteitag der sozialdemokratischen Partei Deutschlands",
+                                    in: Die Freie Generation. Dokumente der Weltanschauung des Anarchismus, I. Band,
+                                    Heft 8, 1907.
+                                </ead:item>
+                                <ead:item>"Abrüstung. Ein Bericht in einer Sitzung und mehreren Stockwerken", in: Das
+                                    Blaubuch, 2. Jg., Heft 19, 1907.
+                                </ead:item>
+                                <ead:item>"Parlamentskritik", in: Das Blaubuch, 2. Jg., Heft 22, 1907.</ead:item>
+                                <ead:item>"Soziale und politische Revolution", Nachwort zu: W. Tscherkesoff, Die Krise
+                                    in Russland, Berlin, 1909.
+                                </ead:item>
+                                <ead:item>"Judentum und Sozialismus", Vortrag, gehalten in der zionistischen Ortsgruppe
+                                    West-Berlin am 7. Februar 1912. Unvollständig. Maschinenschrift.
+                                </ead:item>
+                                <ead:item>"Alexander Herzen. Zur 100. Wiederkehr seines Geburtstags", in: Hannoverscher
+                                    Kurier, Nr. 29796, 22.3.1912. Maschinenschrift.
+                                </ead:item>
+                                <ead:item>"Wilhelm Tell. Zur Zeit der Schreckensherrschaft", in: Frankfurter Zeitung,
+                                    26.9.1912.
+                                </ead:item>
+                                <ead:item>"Der Bürger von Calais", Aufsatz zu Georg Kaisers Theaterstück, in:
+                                    Frankfurter Zeitung, 6.2.1916. Auch in: Gustav Landauer, Ein Weg deutschen Geistes,
+                                    München, 1916.
+                                </ead:item>
+                                <ead:item>"Das Frauenopfer", in: Berliner Tageblatt, Nr. 428, 22.8.1918.
+                                    Maschinenschrift.
+                                </ead:item>
+                                <ead:item>"In Goethes Märchen", Vortrag, gehalten am 6. Oktober 1918. Mit einer
+                                    Einleitung von Max Kronstein.
+                                </ead:item>
+                                <ead:item>"Mass für Mass, Lustspiel von William Shakespeare", (Vortrag?) in: Programm
+                                    der Berliner Volksbühne, 23.10.1918.
+                                </ead:item>
+                                <ead:item>"Ums Düsseldorfer Schauspielhaus", in: Berliner Börsen-Courier, 6.11.1918.
+                                    Maschinenschrift.
+                                </ead:item>
+                                <ead:item>1 Umschlag</ead:item>
+                            </ead:list>
+                        </ead:scopecontent>
                     </c03>
                 </c02>
                 <c02 level="subseries">
@@ -5691,25 +5766,27 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.165?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>
+                                <ead:unittitle xmlns:ead="urn:isbn:1-931666-22-9">
                                     -
-                                </unittitle>
+                                </ead:unittitle>
                             </did>
-                            <scopecontent>
-                                <list>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                    <item/>
-                                </list>
-                            </scopecontent>
+                            <ead:scopecontent xmlns:ead="urn:isbn:1-931666-22-9">
+                                <ead:list>
+                                    <ead:item>Ein Brief von Gustav Landauer an Paul Schur, 1919.</ead:item>
+                                    <ead:item>Briefe an Gustav Landauer von</ead:item>
+                                    <ead:item>Der Börsen-Courier. 1919. 1 Telegramm.</ead:item>
+                                    <ead:item>Fechenbach, [Felix]. 1919. 1 Br.</ead:item>
+                                    <ead:item>Gruppe Sozialistischer Akademiker Münchens. 1919. 1 Br.</ead:item>
+                                    <ead:item>Knote, Gustav. 1919. 1 Br.</ead:item>
+                                    <ead:item>Paasche, Hans. Undatiert. 1 Br.</ead:item>
+                                    <ead:item>Peschko, Ernst und Huch, Margareta. 1919. 1 Br.</ead:item>
+                                    <ead:item>Potthoff, Heinz. 1919. 1 Br.</ead:item>
+                                    <ead:item>Schmidt, Robert. 1919. 1 Br.</ead:item>
+                                    <ead:item>Ein Dokument zum Räte-Kongress, ein Zeitungsausschnitt, Notizen und
+                                        Korrespondenzen zwischen Dritten. 1918-1919 und undatiert.
+                                    </ead:item>
+                                </ead:list>
+                            </ead:scopecontent>
                         </c04>
                     </c03>
                 </c02>
