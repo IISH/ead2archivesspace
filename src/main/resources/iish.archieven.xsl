@@ -27,9 +27,9 @@
     <!--    </xsl:template>-->
 
     <!-- Verwijderd element binnen element(en): <unitdate> binnen c0x:did:unittile wordt verwijderd -->
-    <xsl:template match="ead:unittitle/ead:unitdate">
-        <xsl:value-of select="text()"/>
-    </xsl:template>
+<!--    <xsl:template match="ead:unittitle/ead:unitdate">-->
+<!--        <xsl:value-of select="text()"/>-->
+<!--    </xsl:template>-->
 
     <xsl:template match="@*|node()" mode="unittitle">
         <xsl:choose>

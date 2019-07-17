@@ -1350,8 +1350,8 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.1?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>Tagebuch. Mit Gedichten. 1884-1887. Handschrift. Enthält auch eine später
-                                gemachte Abschrift.
+                            <unittitle>Tagebuch. Mit Gedichten. <unitdate>1884-1887.</unitdate>Handschrift. Enthält auch
+                                eine später gemachte Abschrift.
                             </unittitle>
                             <physdesc>
                                 <extent>1 Mappe</extent>
@@ -1418,8 +1418,10 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.4?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>Liste der von Gustav Landauer gehaltenen Vorträgen im Winterhalbjahr 1903-1904
-                                und Notizen zu Vorlesungen. 1903-1904 und undatiert. Maschinenschrift und Handschrift.
+                            <unittitle>Liste der von Gustav Landauer gehaltenen Vorträgen im Winterhalbjahr <unitdate>
+                                1903-1904
+                            </unitdate> und Notizen zu Vorlesungen. 1903-1904 und undatiert. Maschinenschrift und
+                                Handschrift.
                             </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag
@@ -1462,7 +1464,8 @@
                             </daogrp>
                             <unittitle>Impfschein, Abonnementskarte, Aufenthaltsbewilligung, Mitgliedskarten,
                                 Bescheinigungen, Reisepass, Leihkarte, Legitimationskarte, Ausweiskarten und andere
-                                persönliche Dokumente. 1882, 1890, 1893, 1909, 1912, 1914-1918 und undatiert.
+                                persönliche Dokumente. <unitdate>1882, 1890, 1893, 1909, 1912, 1914-1918</unitdate>und
+                                undatiert.
                             </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag</extent>
@@ -1484,7 +1487,8 @@
                             </daogrp>
                             <unittitle>Zeugnisse des Realgymnasiums und des Grossh. Gymnasiums in Karlsruhe,
                                 Anmeldebücher, Immatrikulations-, Studien-, Sitten- und Abgangszeugnisse mehrerer
-                                Universitäten. 1883, 1885-1886, 1888-1892, 1895.
+                                Universitäten.
+                                <unitdate>1883, 1885-1886, 1888-1892, 1895.</unitdate>
                             </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag</extent>
@@ -1494,7 +1498,9 @@
                     <c03 level="file">
                         <did>
                             <unitid>8-9</unitid>
-                            <unittitle>Prozessakten. 1893, 1895, 1897-1899, 1910, 1913-1914 und undatiert.</unittitle>
+                            <unittitle>Prozessakten.
+                                <unitdate>1893, 1895, 1897-1899, 1910, 1913-1914 und undatiert.</unitdate>
+                            </unittitle>
                             <physdesc>
                                 <extent>2 Umschläge</extent>
                             </physdesc>
@@ -1545,7 +1551,9 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.10?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>Zuhörerlisten zu von Gustav Landauer gehaltenen Vorlesungen. 1915.</unittitle>
+                            <unittitle>Zuhörerlisten zu von Gustav Landauer gehaltenen Vorlesungen.
+                                <unitdate calendar="gregorian" era="ce">1915.</unitdate>
+                            </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag</extent>
                             </physdesc>
@@ -1564,7 +1572,9 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.11?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>Rechnung, Quittung und Besitzzeugnis. 1919 und undatiert.</unittitle>
+                            <unittitle>Rechnung, Quittung und Besitzzeugnis.
+                                <unitdate>1919 und undatiert.</unitdate>
+                            </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag</extent>
                             </physdesc>
@@ -1898,7 +1908,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.18?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle><persname>Mauthner, Fritz</persname>. 1898-1907, 1911, 1916. 110 Br.
+                                    <unittitle><persname>Mauthner, Fritz</persname>. <unitdate>1898-1907, 1911, 1916.
+                                    </unitdate> 110 Br.
                                     </unittitle>
                                 </did>
                             </c05>
@@ -2018,7 +2029,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.21?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>Korrespondent Verlag der Zukunft-Zimmer, Fr. 1890-1915</unittitle>
+                                    <unittitle>Korrespondent Verlag der Zukunft-Zimmer, Fr.
+                                        <unitdate>1890-1915</unitdate>
+                                    </unittitle>
                                 </did>
                                 <scopecontent>
                                     <list>
@@ -2059,7 +2072,8 @@
                                     </daogrp>
                                     <unittitle>Anonym. Briefe, Briefumschläge und Telegramme, deren Absender entweder
                                         nicht ermittelt werden konnten (weil unleserlich oder mit Initialen
-                                        unterzeichnet), oder fehlen. 1898, 1906-1907, 1909, 1915 und undatiert.
+                                        unterzeichnet), oder fehlen.
+                                        <unitdate>1898, 1906-1907, 1909, 1915 und undatiert.</unitdate>
                                     </unittitle>
                                     <physdesc>
                                         <extent>
@@ -2271,7 +2285,8 @@
                                     </daogrp>
                                     <unittitle><persname>Eisner, Kurt</persname>. "Weltkrieg A.G.". Undatiert. Beilage:
                                         ein Brief von <persname>Else Eisner</persname> an Frau <persname>
-                                            Kronstein</persname>. 1924.
+                                            Kronstein</persname>.
+                                        <unitdate calendar="gregorian" era="ce">1924.</unitdate>
                                     </unittitle>
                                 </did>
                             </c05>
@@ -2360,7 +2375,8 @@
                                     </daogrp>
                                     <unittitle>
                                         <persname>K.E.</persname>
-                                        "Der Weltweg des Geistes". 1917.
+                                        "Der Weltweg des Geistes".
+                                        <unitdate calendar="gregorian" era="ce">1917.</unitdate>
                                     </unittitle>
                                 </did>
                             </c05>
@@ -2857,8 +2873,10 @@
                             <unittitle>Vertrag zwischen Frau Marie Peukert, Robert Hentzschel und Gustav Landauer, eine
                                 Rechnung, eine Empfangsbescheinigung, Quittungen und Notizen zur Herausgabe der
                                 "Erinnerungen" von Josef Peukert. 1911-1913. Beilagen: Briefe von Gustav Landauer an
-                                Herrn Peukert. 1909. 2 Br., Brief von Richard Fischer an Gustav Landauer. 1912. und
-                                Brief von Wilhelm Habicht an Gustav Landauer. 1912.
+                                Herrn Peukert. 1909. 2 Br., Brief von Richard Fischer an Gustav Landauer. <unitdate
+                                        calendar="gregorian" era="ce">1912.
+                                </unitdate> und Brief von Wilhelm Habicht an Gustav Landauer.
+                                <unitdate calendar="gregorian" era="ce">1912.</unitdate>
                             </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag</extent>
@@ -2892,7 +2910,8 @@
                             <unitid>52-53</unitid>
                             <unittitle>Protokolle, Korrespondenz, Pamphlete und andere Dokumente den Verein
                                 'Zentralstelle Völkerrecht' und den Bund 'Neues Vaterland' betreffend. 1915-1918. Mit
-                                Notizen und einem Brief von Hellmut von Gerlach an Gustav Landauer. 1916.
+                                Notizen und einem Brief von Hellmut von Gerlach an Gustav Landauer.
+                                <unitdate calendar="gregorian" era="ce">1916.</unitdate>
                             </unittitle>
                             <physdesc>
                                 <extent>2 Umschläge</extent>
@@ -3098,7 +3117,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.59?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1910.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1910.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3114,7 +3135,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.60?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1911.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1911.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3130,7 +3153,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.61?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1912.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1912.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3146,7 +3171,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.62?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1913, 1916.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1913, 1916.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3162,7 +3189,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.63?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1917-1919.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1917-1919.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -3173,10 +3202,12 @@
                                     <persname>Landauer, Hermann</persname>
                                     und <persname>Landauer-Neuburger, Rose</persname>(die Eltern Gustav Landauers).
                                     Enthält auch drei Briefe mit schwer lesbaren Absendern [Grete, Lotte?], und ein
-                                    Brief von Gudula Landauer und Franziska Otto. 1891-1892, 1896, 1899-1919, 1926. 106
-                                    Br. Beilagen: Vossische Zeitung, 26.2.1918. Enthält einen Artikel von Auguste
-                                    Hauschner: "Dem Andenken von Hedwig Lachmann." Gustav Landauer, "Wie Hedwig Lachmann
-                                    starb." Broschüre. Privatdruck. 1918. Notizen und eine unbeschriebene Postkarte.
+                                    Brief von Gudula Landauer und Franziska Otto. <unitdate>1891-1892, 1896, 1899-1919,
+                                    1926</unitdate>. 106 Br. Beilagen: Vossische Zeitung, 26.2.1918. Enthält einen
+                                    Artikel von Auguste Hauschner: "Dem Andenken von Hedwig Lachmann." Gustav Landauer,
+                                    "Wie Hedwig Lachmann starb." Broschüre. Privatdruck. <unitdate calendar="gregorian"
+                                                                                                   era="ce">
+                                    1918.</unitdate>Notizen und eine unbeschriebene Postkarte.
                                 </unittitle>
                                 <physdesc>
                                     <extent>4
@@ -3197,7 +3228,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.64?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1891-1892, 1896, 1899-1901.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1891-1892, 1896, 1899-1901.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3213,7 +3246,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.65?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1901-1907.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1901-1907.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3229,7 +3264,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.66?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1908-1910.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1908-1910.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3245,7 +3282,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.67?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1911-1919, 1926.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1911-1919, 1926.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -3272,7 +3311,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.68?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>Briefe 1899-1901, 1916.</unittitle>
+                                    <unittitle>Briefe
+                                        <unitdate>1899-1901, 1916.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3288,7 +3329,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.69?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>Tagebuch geschriebene Briefe. Mit Gedichten Gustav Landauers.1899.
+                                    <unittitle>Tagebuch geschriebene Briefe. Mit Gedichten Gustav Landauers.
+                                        <unitdate>1899.</unitdate>
                                     </unittitle>
                                 </did>
                             </c05>
@@ -3324,7 +3366,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.70?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1893-1894.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1893-1894.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3340,7 +3384,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.71?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1893-1897, 1899.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1893-1897, 1899.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -3570,7 +3616,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.80?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1909-1911.</unittitle>
+                                    <unittitle><unitdate>1909-1911</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3586,7 +3633,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.81?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1911-1912.</unittitle>
+                                    <unittitle><unitdate>1911-1912</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3602,7 +3650,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.82?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1912-1919.</unittitle>
+                                    <unittitle><unitdate>1912-1919</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -3625,7 +3674,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.83?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1905-1907.</unittitle>
+                                    <unittitle><unitdate>1905-1907</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -3641,7 +3691,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.84?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1908-1911 und undatiert.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1908-1911 und undatiert.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -3658,9 +3710,9 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.85?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle><persname>Dehmel, Richard</persname>. 1901-1903, 1906-1907, 1909, 1912-1914.
-                                    24 Br. Mit einem Brief von Gustav Landauer und Hedwig Landauer-Lachmann und einem
-                                    Brief von Hedwig Landauer-Lachmann. 1901.
+                                <unittitle><persname>Dehmel, Richard</persname>. <unitdate>1901-1903, 1906-1907, 1909,
+                                    1912-1914</unitdate>. 24 Br. Mit einem Brief von Gustav Landauer und Hedwig
+                                    Landauer-Lachmann und einem Brief von Hedwig Landauer-Lachmann. 1901.
                                 </unittitle>
                             </did>
                         </c04>
@@ -3677,8 +3729,8 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.86?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle><persname>Dumont-Lindemann, Louise</persname>. Auch an Gustav Lindemann
-                                    1917-1919. 35 Br.
+                                <unittitle><persname>Dumont-Lindemann, Louise</persname>. Auch an Gustav
+                                    Lindemann <unitdate>1917-1919</unitdate>. 35 Br.
                                 </unittitle>
                             </did>
                         </c04>
@@ -3695,7 +3747,8 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.87?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle><persname>Eeden, Frederik van</persname>. 1910, 1914-1915. 16 Br.
+                                <unittitle><persname>Eeden, Frederik van</persname>. <unitdate>1910,
+                                    1914-1915</unitdate>. 16 Br.
                                 </unittitle>
                                 <note>
                                     <p>NB. Siehe auch Inv.-Nrn. 24 und 26.</p>
@@ -4023,7 +4076,8 @@
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
                             <unittitle>Maschinengeschriebene Abschrift eines Briefes von Gustav Landauer an einen
-                                Freund. 1893. Mit einer Einleitung von Max Kronstein. 1929 .
+                                Freund. 1893. Mit einer Einleitung von Max Kronstein. <unitdate calendar="gregorian"
+                                                                                                era="ce">1929</unitdate>.
                             </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag</extent>
@@ -4140,7 +4194,7 @@
                         <c04 level="file">
                             <did>
                                 <unitid>109-110</unitid>
-                                <unittitle><persname>Bab, Julius</persname>. 1902-1904, 1906-1918. Abschriften.
+                                <unittitle><persname>Bab, Julius</persname>. <unitdate>1902-1904, 1906-1918.</unitdate> Abschriften.
                                 </unittitle>
                             </did>
                             <c05 level="item">
@@ -4284,8 +4338,9 @@
                                 </daogrp>
                                 <unittitle>
                                     <persname>Brunner, Constantin</persname>
-                                    (Pseudonym <persname>Leo Wertheimers</persname>). 1905-1911 und undatiert.
-                                    Abschriften. Mit einem Originalbrief von Gustav Landauer an Leoni und Lotte
+                                    (Pseudonym <persname>Leo Wertheimers</persname>). <unitdate>1905-1911 und
+                                    undatiert.
+                                </unitdate> Abschriften. Mit einem Originalbrief von Gustav Landauer an Leoni und Lotte
                                     Wertheimer. 1911. Enthält auch 9 Abschriften von Briefen von Constantin Brunner an
                                     Gustav Landauer und Hedwig Landauer-Lachmann. 1907, 1911.
                                 </unittitle>
@@ -4294,10 +4349,12 @@
                         <c04 level="file">
                             <did>
                                 <unitid>115-116</unitid>
-                                <unittitle><persname>Buber, Martin</persname>. 1906-1919. Abschriften. Mit einer
-                                    Abschrift eines Briefes von Gustav Landauer und Martin Buber an die Mitglieder des
-                                    Forte-Kreises. Beilage: Notizen Gustav Landauers über Martin Bubers Verhandlung "Der
-                                    Geist des Orients und das Judentum". Mit Abschriften dieser Notizen. 1914.
+                                <unittitle><persname>Buber, Martin</persname>. <unitdate>1906-1919</unitdate>.
+                                    Abschriften. Mit einer Abschrift eines Briefes von Gustav Landauer und Martin Buber
+                                    an die Mitglieder des Forte-Kreises. Beilage: Notizen Gustav Landauers über Martin
+                                    Bubers Verhandlung "Der Geist des Orients und das Judentum". Mit Abschriften dieser
+                                    Notizen.
+                                    <unitdate calendar="gregorian" era="ce">1914.</unitdate>
                                 </unittitle>
                             </did>
                             <c05 level="item">
@@ -4313,7 +4370,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.115?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1906-1915, 1983.</unittitle>
+                                    <unittitle><unitdate>1906-1915, 1983</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -4329,7 +4387,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.116?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1916-1919.</unittitle>
+                                    <unittitle><unitdate>1916-1919</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -4429,8 +4488,8 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.119?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle><persname>Faas-Hardegger, Margarete</persname>. 1908-1910. Abschriften. Mit
-                                    einem Foto von zwei Kindern.
+                                <unittitle><persname>Faas-Hardegger, Margarete</persname>. <unitdate>
+                                    1908-1910</unitdate>. Abschriften. Mit einem Foto von zwei Kindern.
                                 </unittitle>
                             </did>
                         </c04>
@@ -4514,8 +4573,9 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.122?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle><persname>Hauschner, Auguste</persname>. 1900-1903, 1905-1911, 1915-1919.
-                                    Abschriften.
+                                <unittitle><persname>Hauschner, Auguste</persname>. <unitdate>1900-1903, 1905-1911,
+                                    1915-1919.
+                                </unitdate> Abschriften.
                                 </unittitle>
                             </did>
                         </c04>
@@ -4638,9 +4698,10 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.126?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle><persname>Landauer, Hugo</persname>. Auch an seine Frau Charlotte. 1892-1895,
-                                    1898, 1908-1910, 1915-1917. Abschriften. Enthält auch eine Abschrift des Konzepts
-                                    von Landauers 'Krumbacher Flugblatt'. Undatiert.
+                                <unittitle><persname>Landauer, Hugo</persname>. Auch an seine Frau Charlotte. <unitdate>
+                                    1892-1895, 1898, 1908-1910, 1915-1917.
+                                </unitdate> Abschriften. Enthält auch eine Abschrift des Konzepts von Landauers
+                                    'Krumbacher Flugblatt'. Undatiert.
                                 </unittitle>
                             </did>
                         </c04>
@@ -4658,15 +4719,16 @@
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
                                 <unittitle><persname>Landauer, Lotte, Gudula und Brigitte</persname>(Kinder Gustav
-                                    Landauers). 1899, 1910-1912, 1916-1919 und undatiert. Abschriften.
+                                    Landauers). <unitdate>1899, 1910-1912, 1916-1919 und undatiert.</unitdate> Abschriften.
                                 </unittitle>
                             </did>
                         </c04>
                         <c04 level="file">
                             <did>
                                 <unitid>128-130</unitid>
-                                <unittitle><persname>Landauer-Lachmann, Hedwig</persname>. 1899-1901, 1905, 1915-1917
-                                    und undatiert. Abschriften.
+                                <unittitle><persname>Landauer-Lachmann, Hedwig</persname>. <unitdate>1899-1901, 1905,
+                                    1915-1917 und undatiert.
+                                </unitdate> Abschriften.
                                 </unittitle>
                             </did>
                             <c05 level="item">
@@ -4682,7 +4744,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.128?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1899-1900.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1899-1900.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -4698,7 +4762,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.129?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1900-1901.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1900-1901.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -4714,7 +4780,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.130?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1905-1917 und undatiert.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1905-1917 und undatiert.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -4755,9 +4823,11 @@
                             <did>
                                 <unitid>132-135</unitid>
                                 <unittitle><persname>Mauthner, Fritz</persname>. Auch an Hedwig Mauthner und von Hedwig
-                                    Landauer-Lachmann. 1892, 1894-1896, 1898-1919 und undatiert. Abschriften. Beilagen:
-                                    ein Brief von Leo Winze an Fritz Mauthner. 1906. Ein Brief von Fritz Mauthner an Leo
-                                    Winze. 1906. Abschrift eines Briefes von Ludwig Berndl an Gustav Landauer. 1911.
+                                    Landauer-Lachmann. <unitdate>1892, 1894-1896, 1898-1919 und undatiert.</unitdate> Abschriften.
+                                    Beilagen: ein Brief von Leo Winze an Fritz Mauthner. 1906. Ein Brief von Fritz
+                                    Mauthner an Leo Winze. 1906. Abschrift eines Briefes von Ludwig Berndl an Gustav
+                                    Landauer.
+                                    <unitdate>1911.</unitdate>
                                 </unittitle>
                             </did>
                             <c05 level="item">
@@ -4773,7 +4843,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.132?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1892, 1894-1896, 1898-1902.</unittitle>
+                                    <unittitle><unitdate>1892, 1894-1896, 1898-1902</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -4789,7 +4860,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.133?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1903-1908.</unittitle>
+                                    <unittitle><unitdate>1903-1908</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -4805,7 +4877,8 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.134?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1909-1913.</unittitle>
+                                    <unittitle><unitdate>1909-1913</unitdate>.
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -4821,7 +4894,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.135?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1914-1919 und undatiert.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1914-1919 und undatiert.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -4933,7 +5008,7 @@
                         <c04 level="file">
                             <did>
                                 <unitid>140-141</unitid>
-                                <unittitle><persname>Nettlau, Max</persname>. 1909-1915, 1917-1919. Abschriften.
+                                <unittitle><persname>Nettlau, Max</persname>. <unitdate>1909-1915, 1917-1919.</unitdate> Abschriften.
                                 </unittitle>
                             </did>
                             <c05 level="item">
@@ -4949,7 +5024,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.140?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>1909-1912.</unittitle>
+                                    <unittitle>
+                                        <unitdate>1909-1912.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                             <c05 level="item">
@@ -4965,7 +5042,9 @@
                                         <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.141?locatt=view:catalog"
                                                 xlink:type="locator" xlink:label="catalog"/>
                                     </daogrp>
-                                    <unittitle>19131915, 1917-1919.</unittitle>
+                                    <unittitle>
+                                        <unitdate>19131915, 1917-1919.</unitdate>
+                                    </unittitle>
                                 </did>
                             </c05>
                         </c04>
@@ -5131,8 +5210,8 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.146?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle><persname>Warnstedt</persname>. Auch an 'lieber Kamerad' und 'liebe Freunde'.
-                                    1910-1916, 1918-1919. Abschriften.
+                                <unittitle><persname>Warnstedt</persname>. Auch an 'lieber Kamerad' und 'liebe Freunde'. <unitdate>
+                                    1910-1916, 1918-1919.</unitdate>Abschriften.
                                 </unittitle>
                             </did>
                         </c04>
@@ -5242,7 +5321,8 @@
                             </daogrp>
                             <unittitle>Listen von Briefen und Abschriften von Briefen Gustav Landauers, Notizen und
                                 Korrespondenz zur Herausgabe der Briefe Gustav Landauers. Enthält auch einige Porträts
-                                von Gustav Landauer. 1921, 1924-1926 und undatiert.
+                                von Gustav Landauer.
+                                <unitdate>1921, 1924-1926 und undatiert.</unitdate>
                             </unittitle>
                         </did>
                     </c03>
@@ -5264,10 +5344,12 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.152?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>Abschriften von 171 Briefen Gustav Landauers an Ludwig Berndl. 1909-1919. Für
-                                eine geplante Veröffentlichung zusammengestellt von Ludwig Berndl. Mit einer Einleitung,
-                                einem Vorwort und Anmerkungen von Ludwig Berndl. Maschinengeschrieben. Enthält auch zwei
-                                Reproduktionen von Fotos von Gustav Landauer. 1936.
+                            <unittitle>Abschriften von 171 Briefen Gustav Landauers an Ludwig Berndl. <unitdate>
+                                1909-1919.
+                            </unitdate> Für eine geplante Veröffentlichung zusammengestellt von Ludwig Berndl. Mit einer
+                                Einleitung, einem Vorwort und Anmerkungen von Ludwig Berndl. Maschinengeschrieben.
+                                Enthält auch zwei Reproduktionen von Fotos von Gustav Landauer.
+                                <unitdate calendar="gregorian" era="ce">1936.</unitdate>
                             </unittitle>
                             <physdesc>
                                 <extent>1 Mappe</extent>
@@ -5639,8 +5721,9 @@
                                     einem Kulturprogramm, von Briefen und einer Erklärung Gustav Landauers und von
                                     Zeitungsausschnitten. Enthält auch später gemachte Notizen (von Max Kronstein?).
                                     1918-1919 und undatiert. Beilagen: Abschrift eines Briefes von Gustav Landauer an
-                                    seine Kinder. 1919. und Abschrift von Gustav Landauers Artikel "Überschätzung der
-                                    Wahlen", in: Die Republik, 2. Jg., Nr. 21, 1919.
+                                    seine Kinder. <unitdate calendar="gregorian" era="ce">1919.</unitdate> und Abschrift
+                                    von Gustav Landauers Artikel "Überschätzung der Wahlen", in: Die Republik, 2. Jg.,
+                                    Nr. 21, 1919.
                                 </unittitle>
                             </did>
                         </c04>
@@ -5664,7 +5747,8 @@
                                     Abschriften von Dokumenten der Gruppe Sozialistischer Akademiker Münchens und
                                     Abschriften von anderen Dokumenten zu Unterricht und Kunst während der Bayerischen
                                     Räterepublik. 1919 und undatiert. Beilagen: Flugblatt "An die ländliche
-                                    Bevölkerung!". 1919. und Brief von Gustav Landauer an Lotte Landauer. 1919.
+                                    Bevölkerung!". <unitdate calendar="gregorian" era="ce">1919.</unitdate> und Brief
+                                    von Gustav Landauer an Lotte Landauer. 1919.
                                 </unittitle>
                             </did>
                         </c04>
@@ -5852,7 +5936,8 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.171?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>1896-1903, 1911, 1916-1917.</unittitle>
+                                <unittitle><unitdate>1896-1903, 1911, 1916-1917</unitdate>.
+                                </unittitle>
                             </did>
                         </c04>
                         <c04 level="item">
@@ -5868,7 +5953,8 @@
                                     <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.172?locatt=view:catalog"
                                             xlink:type="locator" xlink:label="catalog"/>
                                 </daogrp>
-                                <unittitle>1919-1921, 1925 .</unittitle>
+                                <unittitle><unitdate>1919-1921, 1925</unitdate>.
+                                </unittitle>
                             </did>
                         </c04>
                     </c03>
@@ -5908,7 +5994,9 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.174?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>Maschinengeschriebene Abschrift eines Flugblattes. 1917.</unittitle>
+                            <unittitle>Maschinengeschriebene Abschrift eines Flugblattes.
+                                <unitdate calendar="gregorian" era="ce">1917.</unitdate>
+                            </unittitle>
                             <physdesc>
                                 <extent>1Umschlag</extent>
                             </physdesc>
@@ -5947,7 +6035,9 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.176?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>Eine Zeugenvorladung. 1919.</unittitle>
+                            <unittitle>Eine Zeugenvorladung.
+                                <unitdate calendar="gregorian" era="ce">1919.</unitdate>
+                            </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag</extent>
                             </physdesc>
@@ -5989,7 +6079,7 @@
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
                             <unittitle>Gedenkschrift "Charlotte Kronstein-Landauer zum Gedächtnis". Privatdruck von Max
-                                Kronstein. 1927 .
+                                Kronstein. <unitdate calendar="gregorian" era="ce">1927</unitdate>.
                             </unittitle>
                             <physdesc>
                                 <extent>1 Umschlag</extent>
@@ -6130,7 +6220,8 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.183_1?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>1905-1908.</unittitle>
+                            <unittitle><unitdate>1905-1908</unitdate>.
+                            </unittitle>
                         </did>
                     </c03>
                     <c03 level="item">
@@ -6146,7 +6237,8 @@
                                 <daoloc xlink:href="http://hdl.handle.net/10622/ARCH00780.183_2?locatt=view:catalog"
                                         xlink:type="locator" xlink:label="catalog"/>
                             </daogrp>
-                            <unittitle>1909.</unittitle>
+                            <unittitle><unitdate>1909</unitdate>.
+                            </unittitle>
                         </did>
                     </c03>
                 </c02>
