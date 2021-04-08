@@ -1,31 +1,23 @@
 package org;
 
-import org.xml.sax.SAXException;
-
 import javax.xml.transform.*;
 import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.List;
 
-public class IISH2WorldCat {
+public class Rapport {
 
 
-    private final TransformerFactory  tf = TransformerFactory.newInstance();
-    @SuppressWarnings("unchecked")
-    private ArrayList<Transformer> transformers = new ArrayList(2);
-    private static Validate validate;
+    private final List<Transformer> transformers = new ArrayList<>();
 
-    private IISH2WorldCat() {
+    private Rapport() {
 
-        try {
-            validate = new Validate();
-        } catch (SAXException e) {
-            e.printStackTrace();
-        }
+        final TransformerFactory tf = TransformerFactory.newInstance();
 
-        String[] _transformers = {"/iish.archieven.xsl"};
+        final String[] _transformers = {"/1.xsl"};
         for (String _transformer : _transformers) {
 
             final URL resource = this.getClass().getResource(_transformer);
@@ -38,6 +30,7 @@ public class IISH2WorldCat {
             }
 
             source.setSystemId(resource.toString());
+
             try {
                 transformers.add(tf.newTransformer(source));
             } catch (TransformerConfigurationException e) {
@@ -48,7 +41,7 @@ public class IISH2WorldCat {
 
     }
 
-    private void migrate(String source_folder, String target_folder) throws IOException, TransformerException {
+    private void run(String source_folder, String target_folder) throws IOException, TransformerException {
 
         final File[] source_files = new File(source_folder).listFiles();
         if (source_files == null) {
@@ -68,7 +61,7 @@ public class IISH2WorldCat {
             final int length = (int) source_file.length();
             byte[] record = new byte[length];
 
-            source.read(record, 0, length);
+            System.out.println(source.read(record, 0, length));
 
             System.out.println(source_file.getAbsolutePath());
             for (Transformer transformer : transformers) {
@@ -78,12 +71,6 @@ public class IISH2WorldCat {
             File target = new File(targetFolder, source_file.getName());
             FileOutputStream fos = new FileOutputStream(target);
             fos.write(record);
-
-            String msg = validate.validate(target);
-            if (msg != null) {
-                System.out.println("Invalid MarcXML: " + target.getAbsolutePath());
-                System.out.println(msg);
-            }
         }
     }
 
@@ -102,6 +89,6 @@ public class IISH2WorldCat {
      */
     public static void main(String[] args) throws IOException, TransformerException {
 
-        new IISH2WorldCat().migrate(args[0], args[1]);
+        new Rapport().run(args[0], args[1]);
     }
 }

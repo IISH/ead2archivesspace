@@ -8,7 +8,6 @@
         exclude-result-prefixes="ead xlink">
 
     <xsl:output method="xml" indent="no" omit-xml-declaration="no"/>
-    <xsl:strip-space elements="*"/>
 
     <xsl:template match="@*|node()">
         <xsl:copy>
