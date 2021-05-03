@@ -40,9 +40,24 @@
 <!--        - Zoek binnen langusage meer dan een language-->
         <xsl:variable name="langusage_language" select="count(//ead:langusage//ead:language)"/>
 
+        <!-- AR-16 Issue 41: rapport alle dsc/head/note gevallen -->
+        <xsl:variable name="dsc_head_note" select="count(//ead:dsc[ead:head and ead:note])"/>
+
+        <!-- AR-23 Issue 52: rapport dsc/note en dsc/odd met @type -->
+        <xsl:variable name="dsc_note_type" select="count(//ead:note[@type])"/>
+        <xsl:variable name="dsc_odd_type" select="count(//ead:odd[@type])"/>
+
+        <!-- AR-25 Issue 52: rapport met note/unitdate gevallen -->
+        <xsl:variable name="note_unitdate" select="count(//ead:note[ead:unitdate])"/>
+
+        <!-- AR-26 - Issue 58a: rapport met genreform, language en origination -->
+        <xsl:variable name="physdesc_genreform" select="count(//ead:physdesc[ead:genreform])"/>
+        <xsl:variable name="physdesc_language" select="count(//ead:physdesc[ead:language])"/>
+        <xsl:variable name="physdesc_origination" select="count(//ead:physdesc[ead:origination])"/>
 
         <xsl:value-of
-                select="concat($cxx_unittitle, $k, $lb_in_unittitle, $k, $physdesc_extent_item_encodinganalog_300a,$k, $physdesc_extent_bytes_encodinganalog_300a, $k, $cxx_geen_atribuut_level, $k, $physdesc_extent_kommagetal, $k, $odd_in_odd, $k, $langusage_language)"/>
+                select="concat($cxx_unittitle, $k, $lb_in_unittitle, $k, $physdesc_extent_item_encodinganalog_300a,$k, $physdesc_extent_bytes_encodinganalog_300a, $k, $cxx_geen_atribuut_level, $k, $physdesc_extent_kommagetal, $k, $odd_in_odd, $k, $langusage_language, $k, $dsc_head_note, $k, $dsc_note_type, $k, $dsc_odd_type, $k, $note_unitdate, $k, $physdesc_genreform, $k, $physdesc_language, $k, $physdesc_origination)"/>
+
     </xsl:template>
 
 </xsl:stylesheet>
