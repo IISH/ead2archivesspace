@@ -52,11 +52,25 @@
 
         <!-- AR-26 - Issue 58a: rapport met genreform, language en origination -->
         <xsl:variable name="physdesc_genreform" select="count(//ead:physdesc[ead:genreform])"/>
-        <xsl:variable name="physdesc_language" select="count(//ead:physdesc[ead:language])"/>
-        <xsl:variable name="physdesc_origination" select="count(//ead:physdesc[ead:origination])"/>
+        <xsl:variable name="physdesc_language" select="count(//ead:dsc[ead:language or */ead:language or */*/ead:language or */*/*/ead:language or */*/*/*/ead:language or */*/*/*/*/ead:language or */*/*/*/*/*/ead:language or */*/*/*/*/*/*/ead:language or */*/*/*/*/*/*/*/ead:language or */*/*/*/*/*/*/*/*/ead:language or */*/*/*/*/*/*/*/*/*/ead:language or */*/*/*/*/*/*/*/*/*/*/ead:language or */*/*/*/*/*/*/*/*/*/*/*/ead:language])"/>
+        <xsl:variable name="physdesc_origination" select="count(//ead:dsc[ead:origination or */ead:origination or */*/ead:origination or */*/*/ead:origination or */*/*/*/ead:origination or */*/*/*/*/ead:origination or */*/*/*/*/*/ead:origination or */*/*/*/*/*/*/ead:origination or */*/*/*/*/*/*/*/ead:origination or */*/*/*/*/*/*/*/*/ead:origination or */*/*/*/*/*/*/*/*/*/ead:origination or */*/*/*/*/*/*/*/*/*/*/ead:origination or */*/*/*/*/*/*/*/*/*/*/*/ead:origination])"/>
+
+        <!-- AR-26 - Issue 58a: rapport met genreform, language en origination -->
+        <xsl:variable name="a"
+                      select="count(//ead:archdesc/ead:did/ead:physdesc[ead:extent/@unit='bytes' and ead:extent/@unit='meter'])"/>
+        <xsl:variable name="b"
+                      select="count(//ead:archdesc/ead:did/ead:physdesc[ead:extent/@unit='bytes' and ead:extent/@unit='item'])"/>
+        <xsl:variable name="c"
+                      select="count(//ead:archdesc/ead:did/ead:physdesc[ead:extent/@unit='meter' and ead:extent/@unit='item'])"/>
+        <xsl:variable name="bytes_meter_item">
+            <xsl:choose>
+                <xsl:when test="$a > 0 or $b > 0 or $c > 0">1</xsl:when>
+                <xsl:otherwise>0</xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
 
         <xsl:value-of
-                select="concat($cxx_unittitle, $k, $lb_in_unittitle, $k, $physdesc_extent_item_encodinganalog_300a,$k, $physdesc_extent_bytes_encodinganalog_300a, $k, $cxx_geen_atribuut_level, $k, $physdesc_extent_kommagetal, $k, $odd_in_odd, $k, $langusage_language, $k, $dsc_head_note, $k, $dsc_note_type, $k, $dsc_odd_type, $k, $note_unitdate, $k, $physdesc_genreform, $k, $physdesc_language, $k, $physdesc_origination)"/>
+                select="concat($cxx_unittitle, $k, $lb_in_unittitle, $k, $physdesc_extent_item_encodinganalog_300a,$k, $physdesc_extent_bytes_encodinganalog_300a, $k, $cxx_geen_atribuut_level, $k, $physdesc_extent_kommagetal, $k, $odd_in_odd, $k, $langusage_language, $k, $dsc_head_note, $k, $dsc_note_type, $k, $dsc_odd_type, $k, $note_unitdate, $k, $physdesc_genreform, $k, $physdesc_language, $k, $physdesc_origination, $k, $bytes_meter_item)"/>
 
     </xsl:template>
 

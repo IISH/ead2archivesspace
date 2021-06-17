@@ -1,6 +1,8 @@
 FINAL/
 folder_in/
 folder_uit/
+in/
+out/
 .idea/
 target/
 *.iml
